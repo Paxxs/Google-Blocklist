@@ -56,3 +56,11 @@
 *://*.anhuilife.com/*
 *://*.aiyanqing.com/*
 *://*.pai-hang-bang.com/*
+*://*.airitilibrary.com/*
+*://k.sina.cn/*
+*://*.911cha.com/*
+*://*.letpub.com.cn/*
+*://*.ichacha.net/*
+*://m.sohu.com/*
+*://*.sohu.com/*
+*://*.anxinews.com/*
