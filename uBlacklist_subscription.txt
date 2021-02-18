@@ -68,3 +68,8 @@
 *://*.xiangmuzhinan.com/*
 *://*.hi-linux.com/*
 *://fuckcloudnative.io/*
+*://*.ichishu.com/*
+*://qcsdn.com/*
+*://*.avgle8.com/*
+*://*.bjfwcx.com/*
+*://download.csdn.net/*
