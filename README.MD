@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/m
 
 ```
 https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt
+```
 
+```
 https://raw.githubusercontent.com/Paxxs/Google-Blocklist/master/uBlacklist_subscription.txt
 ```
