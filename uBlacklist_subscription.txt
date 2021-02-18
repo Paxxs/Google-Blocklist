@@ -64,3 +64,5 @@
 *://m.sohu.com/*
 *://*.sohu.com/*
 *://*.anxinews.com/*
+*://*.lzbxgmjj.com/*
+*://*.xiangmuzhinan.com/*
