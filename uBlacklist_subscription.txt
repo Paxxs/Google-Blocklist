@@ -73,3 +73,6 @@
 *://*.avgle8.com/*
 *://*.bjfwcx.com/*
 *://download.csdn.net/*
+*://read678.com/*
+*://www.dealmoon.com/*
+*://www.xueba521.com/*
