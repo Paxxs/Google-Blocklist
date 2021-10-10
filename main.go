@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"io"
 	"os"
 )
 
@@ -14,16 +15,19 @@ func main() {
 	fmt.Println(subscription)
 }
 
-// 读取文件到字符串数组
 func readFile(path string) ([]string, error) {
 	file, err := os.Open(path)
 	if err != nil {
 		return nil, err
 	}
 	defer file.Close()
+	lines, err := ioToArr(file)
+	return lines, err
+}
 
+func ioToArr(r io.Reader) ([]string, error) {
 	var lines []string
-	scanner := bufio.NewScanner(file)
+	scanner := bufio.NewScanner(r)
 	for scanner.Scan() {
 		lines = append(lines, scanner.Text())
 	}
