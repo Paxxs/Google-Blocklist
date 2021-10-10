@@ -6,6 +6,7 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"time"
 )
 
 func main() {
@@ -14,11 +15,12 @@ func main() {
 		panic(err)
 	}
 	fmt.Println(subscription)
-	networkSubscription, err := readNetworkFile("https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt")
+	networkSubscription, err := readNetworkFile("https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/raw/master/uBlacklist_match_patterns.txt")
 	if err != nil {
 		panic(err)
 	}
 	fmt.Println(networkSubscription)
+	fmt.Println(removeDuplicate(subscription))
 }
 
 func readFile(path string) ([]string, error) {
@@ -49,4 +51,21 @@ func ioToArr(r io.Reader) ([]string, error) {
 	}
 
 	return lines, scanner.Err()
+}
+
+func removeDuplicate(arr []string) []string {
+	start := time.Now()
+
+	resArray := make([]string, 0)
+	tmpArray := make(map[string]interface{})
+
+	for _, val := range arr {
+		if _, ok := tmpArray[val]; !ok {
+			// 不存在则创建
+			resArray = append(resArray, val)
+			tmpArray[val] = struct{}{}
+		}
+	}
+	fmt.Println("Removing duplicate time:", fmt.Sprintf("%vms", (time.Now().UnixNano()-start.UnixNano())/1e+6))
+	return resArray
 }
