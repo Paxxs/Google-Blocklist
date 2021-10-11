@@ -38,3 +38,4 @@ https://raw.githubusercontent.com/Paxxs/Google-Blocklist/master/uBlacklist_subsc
 
 - 使用 Google 搜索时收集
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
+- [dallaslu/penzai-list: list of g.penzai.com](https://github.com/dallaslu/penzai-list)
