@@ -25,7 +25,7 @@
 ### 订阅规则
 
 ```
-https://raw.githubusercontent.com/Paxxs/Google-Blocklist/master/uBlacklist_subscription.txt
+https://github.com/Paxxs/Google-Blocklist/raw/develop/uBlacklist_subscription.txt
 ```
 
 ## TODO
@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/Paxxs/Google-Blocklist/master/uBlacklist_subsc
 - [x] 过滤垃圾站 penzai.com （“小X知识网” “小X百科网”）
 - [x] 自动合并订阅去重
 - [ ] custom 规则内嵌原因
+- [ ] 单独域名IP列表
 
 ## 内容来源
 
