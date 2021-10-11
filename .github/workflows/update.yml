@@ -39,5 +39,9 @@ jobs:
         with: 
           # Github Token with commit access
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: develop
+          commit-message: 'update subscription'
+          force-add: 'true'
           files: uBlacklist_subscription.txt
+          name: Paxxs
+          email: 10364775+Paxxs@users.noreply.github.com
+          push-branch: develop
