@@ -22,10 +22,20 @@
 - [Mac App Store](https://apps.apple.com/app/ublacklist-for-safari/id1547912640)
 
 
+在 uBlacklist 的设置选项中找到「订阅」并添加链接地址即可。
+
 ### 订阅规则
+
+Github : `https://git.io/gblock`
 
 ```
 https://github.com/Paxxs/Google-Blocklist/raw/develop/uBlacklist_subscription.txt
+```
+
+CDN加速（适合内陆用户）：
+
+```shell
+https://cdn.jsdelivr.net/gh/Paxxs/Google-Blocklist@develop/uBlacklist_subscription.txt
 ```
 
 ## TODO
