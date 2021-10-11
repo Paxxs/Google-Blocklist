@@ -1,0 +1,7 @@
+version: "1"
+local_subscriptions: 
+  - ./data/match_patterns.txt
+  - ./data/uBlacklist_subscription.txt
+remote_subscriptions: 
+  - https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/raw/master/uBlacklist_match_patterns.txt
+  - https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/raw/master/uBlacklist_subscription.txt
