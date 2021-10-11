@@ -10,17 +10,33 @@ import (
 )
 
 func main() {
-	subscription, err := readFile("./data/match_patterns.txt")
+	sub_original, err := loadSubscriptions("./config.yml")
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println(subscription)
-	networkSubscription, err := readNetworkFile("https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/raw/master/uBlacklist_match_patterns.txt")
+	fmt.Println("original subscriptions size: ", len(sub_original))
+	sub := removeDuplicate(sub_original)
+	fmt.Println("removeDuplicated size: ", len(sub))
+	err = writeFile("uBlacklist_subscription.txt", sub)
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println(networkSubscription)
-	fmt.Println(removeDuplicate(subscription))
+	fmt.Println("done!")
+}
+
+func writeFile(path string, contents []string) error {
+	file, err := os.OpenFile(path, os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		return err
+	}
+
+	datewriter := bufio.NewWriter(file)
+	for _, lines := range contents {
+		datewriter.WriteString(lines + "\n")
+	}
+	datewriter.Flush()
+
+	return file.Close()
 }
 
 func readFile(path string) ([]string, error) {
