@@ -30,7 +30,9 @@ jobs:
           ref: feature/action
 
       - name: update Blocklist
-        run: ./update
+        run: |
+          chmod +x ./update
+          ./update
 
       - name: push
         uses: github-actions-x/commit@v2.8
@@ -39,5 +41,3 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: feature/action
           files: uBlacklist_subscription.txt
-          
-          
