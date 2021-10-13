@@ -1686,6 +1686,7 @@ title/.* - 小.(百科|知识)网/
 *://*.0hb8b.cn/*
 *://*.0jf1l38.cn/*
 *://*.0k7vsw4.cn/*
+*://*.0kah0k.cn/*
 *://*.0l7rin0.cn/*
 *://*.0li1cpt.cn/*
 *://*.0ltkzv7.cn/*
@@ -1720,6 +1721,7 @@ title/.* - 小.(百科|知识)网/
 *://*.1018272.cn/*
 *://*.101dh.com/*
 *://*.101shequ.com/*
+*://*.101super.buzz/*
 *://*.1037293.cn/*
 *://*.1040chz.cn/*
 *://*.106jsk.com/*
@@ -1793,6 +1795,7 @@ title/.* - 小.(百科|知识)网/
 *://*.17youhuiba.com/*
 *://18.141.160.82/*
 *://*.1800copy.buzz/*
+*://*.1800gonow.buzz/*
 *://*.1837283.cn/*
 *://*.1888dj.com/*
 *://*.189qt.com/*
@@ -1808,6 +1811,7 @@ title/.* - 小.(百科|知识)网/
 *://*.1b43j7f.cn/*
 *://*.1bu1bu.com/*
 *://*.1c7b.cn/*
+*://*.1cite.buzz/*
 *://*.1cs9b98.cn/*
 *://*.1esw.com/*
 *://*.1f2lbvl.cn/*
@@ -1842,6 +1846,7 @@ title/.* - 小.(百科|知识)网/
 *://*.1tct.cn/*
 *://*.1tcu.cn/*
 *://*.1tcw.cn/*
+*://*.1tour3.buzz/*
 *://*.1u2u1.com/*
 *://*.1uyh5hf.cn/*
 *://*.1vdu.com/*
@@ -1920,9 +1925,11 @@ title/.* - 小.(百科|知识)网/
 *://*.2gg0gmn.cn/*
 *://*.2gx0rff.cn/*
 *://*.2h42j1f.cn/*
+*://*.2hay.buzz/*
 *://*.2izr31t.cn/*
 *://*.2lndd3z.cn/*
 *://*.2match2.buzz/*
+*://*.2mikes.buzz/*
 *://*.2optrip.com/*
 *://*.2p79j9v.cn/*
 *://*.2p8doar.cn/*
@@ -1990,6 +1997,7 @@ title/.* - 小.(百科|知识)网/
 *://*.37orog3.cn/*
 *://*.387u.com/*
 *://*.388625.com/*
+*://*.3adfo7.cn/*
 *://*.3agtl2.cn/*
 *://*.3balao.com/*
 *://*.3buxfy1.cn/*
@@ -2103,6 +2111,7 @@ title/.* - 小.(百科|知识)网/
 *://*.4cookbooks.buzz/*
 *://*.4d3yfbf.cn/*
 *://*.4december.buzz/*
+*://*.4desserts.buzz/*
 *://*.4dgarch.buzz/*
 *://*.4dkmbza.cn/*
 *://*.4dophpv.cn/*
@@ -2200,6 +2209,7 @@ title/.* - 小.(百科|知识)网/
 *://*.54496.cn/*
 *://*.54gsl.com/*
 *://*.55468z8.cn/*
+*://*.5558xx.com/*
 *://*.555iw.com/*
 *://*.55667766.com/*
 *://*.5566ka.com/*
@@ -2267,6 +2277,7 @@ title/.* - 小.(百科|知识)网/
 *://*.6351juanchi.cn/*
 *://*.635df.cn/*
 *://*.636862.com/*
+*://*.63rqq7.cn/*
 *://*.640644.com/*
 *://*.64pr.com/*
 *://*.652951.com/*
@@ -2304,6 +2315,7 @@ title/.* - 小.(百科|知识)网/
 *://*.6g1hsvd.cn/*
 *://*.6hm4bn.cn/*
 *://*.6jfvvp.cn/*
+*://*.6jm6tp.cn/*
 *://*.6kapp.com/*
 *://*.6p98dp6.cn/*
 *://*.6painted8.com/*
@@ -2322,6 +2334,7 @@ title/.* - 小.(百科|知识)网/
 *://*.6z9kva.cn/*
 *://*.706qjdu.cn/*
 *://*.707o.com/*
+*://*.71usrc.cn/*
 *://*.720com.cn/*
 *://*.720exl.cn/*
 *://*.727823.com/*
@@ -2388,6 +2401,7 @@ title/.* - 小.(百科|知识)网/
 *://*.800consult.buzz/*
 *://*.800hiphop.buzz/*
 *://*.800jpw.com/*
+*://*.800liquors.buzz/*
 *://*.800newyork.buzz/*
 *://*.800party.buzz/*
 *://*.800rags.buzz/*
@@ -2463,6 +2477,7 @@ title/.* - 小.(百科|知识)网/
 *://*.91bigman.com/*
 *://*.91fangpian.com/*
 *://*.91tgo.com/*
+*://*.91zhushan.com/*
 *://*.925u.cn/*
 *://*.927km.com/*
 *://*.928zy.com/*
@@ -2485,6 +2500,7 @@ title/.* - 小.(百科|知识)网/
 *://*.95eo.com/*
 *://*.971700.com/*
 *://*.973web.buzz/*
+*://*.975hus.cn/*
 *://*.97oxford.buzz/*
 *://*.980pj.cn/*
 *://*.987yy.cn/*
@@ -2510,6 +2526,7 @@ title/.* - 小.(百科|知识)网/
 *://*.9alife.com/*
 *://*.9ct156h.cn/*
 *://*.9dd3.cn/*
+*://*.9g6ygu.cn/*
 *://*.9gft.com/*
 *://*.9go8lrt.cn/*
 *://*.9j38dyc.cn/*
@@ -2520,6 +2537,7 @@ title/.* - 小.(百科|知识)网/
 *://*.9m0f4gn.cn/*
 *://*.9mf72v3.cn/*
 *://*.9mivc60.cn/*
+*://*.9n30tt.cn/*
 *://*.9n9rsx.cn/*
 *://*.9pert0w.cn/*
 *://*.9pottery5.com/*
@@ -2553,16 +2571,20 @@ title/.* - 小.(百科|知识)网/
 *://*.aaggob.cn/*
 *://*.aalaicc.com/*
 *://*.abba-escorts.buzz/*
+*://*.abbotpottery.buzz/*
 *://*.abbyjd.com/*
 *://*.abcpowerwash.buzz/*
 *://*.abitibimining.buzz/*
 *://*.abltz.com/*
 *://*.aboriginalweb.buzz/*
 *://*.about-usa.buzz/*
+*://*.abschirmgeraet.buzz/*
+*://*.abscisse-info.buzz/*
 *://*.absolute-sales.buzz/*
 *://*.absolutequalitylimo.buzz/*
 *://*.abstriction.buzz/*
 *://*.academyagent.buzz/*
+*://*.accentsgifts.buzz/*
 *://*.accidentlegalcenter.buzz/*
 *://*.accord-products.buzz/*
 *://*.accounting-products.buzz/*
@@ -2594,7 +2616,9 @@ title/.* - 小.(百科|知识)网/
 *://*.adui5.cn/*
 *://*.adultbets.buzz/*
 *://*.adultdesserts.buzz/*
+*://*.adultnewsletters.buzz/*
 *://*.adventist-home-school.buzz/*
+*://*.adventure-out.buzz/*
 *://*.adventures-of.buzz/*
 *://*.advertisement4you.buzz/*
 *://*.adzna.com/*
@@ -2609,6 +2633,7 @@ title/.* - 小.(百科|知识)网/
 *://*.agoracentredestudis.buzz/*
 *://*.agui98.com/*
 *://*.ahaqsyfj.com/*
+*://*.ahead-consulting.buzz/*
 *://*.ahfi02z.cn/*
 *://*.ahgy168.com/*
 *://*.ahhechang.com/*
@@ -2633,6 +2658,7 @@ title/.* - 小.(百科|知识)网/
 *://*.aimeimm.cn/*
 *://*.ainilaiba.com/*
 *://*.aiqq8.cn/*
+*://*.air-ballon.buzz/*
 *://*.air-travel-card.buzz/*
 *://*.airflowonline.buzz/*
 *://*.airgeorgian.buzz/*
@@ -2651,8 +2677,10 @@ title/.* - 小.(百科|知识)网/
 *://*.akzxwzp.cn/*
 *://*.al-muhaidib.buzz/*
 *://*.al-nida.buzz/*
+*://*.al-shaibani.buzz/*
 *://*.ala-ding.cn/*
 *://*.alabosy123.com/*
+*://*.aladin-upload.buzz/*
 *://*.alaefu.com/*
 *://*.alarmsbusiness.buzz/*
 *://*.albertrelogistics.buzz/*
@@ -2687,6 +2715,7 @@ title/.* - 小.(百科|知识)网/
 *://*.amphioninternational.buzz/*
 *://*.an700.com/*
 *://*.analplug.cn/*
+*://*.ancestryworldtree.buzz/*
 *://*.andre-aimaq.buzz/*
 *://*.andreasteunzer.buzz/*
 *://*.anercn.com/*
@@ -2701,6 +2730,7 @@ title/.* - 小.(百科|知识)网/
 *://*.anmadradubh.buzz/*
 *://*.anmo1.com/*
 *://*.anningbaby.com/*
+*://*.anointedhomesart.buzz/*
 *://*.anonymous-proxy.buzz/*
 *://*.anonymousjuice.buzz/*
 *://*.anpaicao.cn/*
@@ -2725,6 +2755,7 @@ title/.* - 小.(百科|知识)网/
 *://*.apkhr.com/*
 *://*.apotheken-bestellung.buzz/*
 *://*.app-good.com/*
+*://*.appleroses.buzz/*
 *://*.applerp.cn/*
 *://*.appleseedconsulting.buzz/*
 *://*.applicationsbuilder.buzz/*
@@ -2737,6 +2768,7 @@ title/.* - 小.(百科|知识)网/
 *://*.aqbbb.com/*
 *://*.aquacool-gaffney.buzz/*
 *://*.ar3326k.cn/*
+*://*.arabian-gallery.buzz/*
 *://*.arabicmoviesdirect.buzz/*
 *://*.arealcat.com/*
 *://*.argointernet.buzz/*
@@ -2759,6 +2791,7 @@ title/.* - 小.(百科|知识)网/
 *://*.asc-infolog.buzz/*
 *://*.ascd9.cn/*
 *://*.ascv-musculation.buzz/*
+*://*.asesorinfo.buzz/*
 *://*.asfvff.cn/*
 *://*.asgvas.cn/*
 *://*.asiannexus.buzz/*
@@ -2767,6 +2800,7 @@ title/.* - 小.(百科|知识)网/
 *://*.askraft.buzz/*
 *://*.assurancesmeilleur.buzz/*
 *://*.asylan.com/*
+*://*.athletessolution.buzz/*
 *://*.atlanticecon.buzz/*
 *://*.atlanticpharmacyla.buzz/*
 *://*.attentionone.buzz/*
@@ -2826,11 +2860,13 @@ title/.* - 小.(百科|知识)网/
 *://*.baiweisao.com/*
 *://*.baixsb.cn/*
 *://*.baiziy.com/*
+*://*.ballgamesplus.buzz/*
 *://*.ballroom-dancer.buzz/*
 *://*.baltic-immo.buzz/*
 *://*.bamuyi.com/*
 *://*.bandwidth9.buzz/*
 *://*.banfun.cn/*
+*://*.banginbooty.buzz/*
 *://*.bangmaer.com/*
 *://*.bangmeili.com/*
 *://*.banmajita.com/*
@@ -2840,10 +2876,13 @@ title/.* - 小.(百科|知识)网/
 *://*.baoguodao9.cn/*
 *://*.baohuacx.com/*
 *://*.baomamm.cn/*
+*://*.baomuxy.com/*
 *://*.baozhiku.com/*
 *://*.bar-edge.buzz/*
 *://*.bargcoz.cn/*
+*://*.barsch-marktforschung.buzz/*
 *://*.bathnet.cn/*
+*://*.batshoot.buzz/*
 *://*.bay668.com/*
 *://*.bayareaexotic.buzz/*
 *://*.baycen.cn/*
@@ -2863,6 +2902,7 @@ title/.* - 小.(百科|知识)网/
 *://*.bdzgd67.cn/*
 *://*.beach-talk.cn/*
 *://*.beamer-heimkino.buzz/*
+*://*.beaniebiz.buzz/*
 *://*.beauty-flowers.buzz/*
 *://*.beauty-katsura.buzz/*
 *://*.beekaa.com/*
@@ -2881,9 +2921,12 @@ title/.* - 小.(百科|知识)网/
 *://*.benestat.buzz/*
 *://*.benmujiang.com/*
 *://*.bentbpi.com/*
+*://*.bertonerimarble.buzz/*
 *://*.bessca.com/*
+*://*.bessybug.buzz/*
 *://*.best-of-best.buzz/*
 *://*.bestfreefootball.buzz/*
+*://*.besthuaxia.com/*
 *://*.bestoaa.com/*
 *://*.bethelroadsweepers.buzz/*
 *://*.betriebspaedagogik.buzz/*
@@ -2904,6 +2947,7 @@ title/.* - 小.(百科|知识)网/
 *://*.bhjy2007.com/*
 *://*.bhlzyy.com/*
 *://*.bi8n0u8.cn/*
+*://*.bicycle-zone.buzz/*
 *://*.bijnchr.cn/*
 *://*.bikinidomains.buzz/*
 *://*.bilbotools.buzz/*
@@ -2946,6 +2990,7 @@ title/.* - 小.(百科|知识)网/
 *://*.bjwbsh.com/*
 *://*.bjww116.com/*
 *://*.bjwyinshua.cn/*
+*://*.bjxqcjy.com/*
 *://*.bjxrtj.com/*
 *://*.bjxykzpls.com/*
 *://*.bjxyr.com/*
@@ -2961,6 +3006,7 @@ title/.* - 小.(百科|知识)网/
 *://*.bldautob.com/*
 *://*.bldygs.com/*
 *://*.blehytter.buzz/*
+*://*.blitz-tipp.buzz/*
 *://*.bljt1x2.cn/*
 *://*.blom7o0.cn/*
 *://*.bluebox3d.com/*
@@ -2979,8 +3025,10 @@ title/.* - 小.(百科|知识)网/
 *://*.bneovb5.cn/*
 *://*.bnshou.com/*
 *://*.boardersedge.buzz/*
+*://*.boaterssource.buzz/*
 *://*.bobvea.cn/*
 *://*.bodizi.com/*
+*://*.bodyforlifediaries.buzz/*
 *://*.boe4ayz.cn/*
 *://*.bohaijixie.com/*
 *://*.bohao5266.cn/*
@@ -3076,6 +3124,7 @@ title/.* - 小.(百科|知识)网/
 *://*.candhdistributors.buzz/*
 *://*.cangzhou8.cn/*
 *://*.capitalretro.buzz/*
+*://*.captivamortgage.buzz/*
 *://*.car-payment.cn/*
 *://*.car0559.com/*
 *://*.cartierwood.cn/*
@@ -3089,6 +3138,7 @@ title/.* - 小.(百科|知识)网/
 *://*.cbuowhi.cn/*
 *://*.cbx6sn.cn/*
 *://*.cc8816.com/*
+*://*.ccbeida.com/*
 *://*.ccdld.com/*
 *://*.cceedjcss.com/*
 *://*.ccheyi.com/*
@@ -3096,6 +3146,7 @@ title/.* - 小.(百科|知识)网/
 *://*.ccjiapeng.com/*
 *://*.cckaxy.com/*
 *://*.ccmhqz.com/*
+*://*.ccmp365.com/*
 *://*.ccpaisen.com/*
 *://*.ccruihe.com/*
 *://*.cctgou.com/*
@@ -3129,6 +3180,8 @@ title/.* - 小.(百科|知识)网/
 *://*.ce2tq74.cn/*
 *://*.ceaoiju.cn/*
 *://*.cefotiam.com/*
+*://*.celebresource.buzz/*
+*://*.centrimediline.buzz/*
 *://*.century21realtor.buzz/*
 *://*.centurysun.cn/*
 *://*.ceramic-industry.buzz/*
@@ -3152,6 +3205,7 @@ title/.* - 小.(百科|知识)网/
 *://*.cheapaprtments.buzz/*
 *://*.chechetun.com/*
 *://*.checkrrr.com/*
+*://*.cheerleadersuperstore.buzz/*
 *://*.chem360.cn/*
 *://*.chengjinzm.com/*
 *://*.chengxuxf.com/*
@@ -3160,6 +3214,7 @@ title/.* - 小.(百科|知识)网/
 *://*.chinatolink.cn/*
 *://*.chinawebonline.buzz/*
 *://*.chinesepcb.cn/*
+*://*.chirontechnologies.buzz/*
 *://*.chiroporn.buzz/*
 *://*.chndongda.com/*
 *://*.chongaibao.cn/*
@@ -3182,6 +3237,7 @@ title/.* - 小.(百科|知识)网/
 *://*.chwings.com/*
 *://*.ciibpsv.cn/*
 *://*.cintc.cn/*
+*://*.circus-square.buzz/*
 *://*.city-copy-plessentin.buzz/*
 *://*.cityforlust.buzz/*
 *://*.cityggmm.cn/*
@@ -3202,8 +3258,10 @@ title/.* - 小.(百科|知识)网/
 *://*.cl1s6eh.cn/*
 *://*.cl2p5nn.cn/*
 *://*.clairvoyantsoftware.buzz/*
+*://*.clay-county.buzz/*
 *://*.cldh8.com/*
 *://*.clearday.cn/*
+*://*.clemensbooks.buzz/*
 *://*.clggz.net/*
 *://*.clothw.com/*
 *://*.cloudsos.com.cn/*
@@ -3244,12 +3302,15 @@ title/.* - 小.(百科|知识)网/
 *://*.com-car.buzz/*
 *://*.com.mx/*
 *://*.comdevtech.buzz/*
+*://*.compmemory.buzz/*
 *://*.compraguapa.buzz/*
+*://*.computerjobbank.buzz/*
 *://*.computertest.cn/*
 *://*.congga.cn/*
 *://*.contrex-us.buzz/*
 *://*.coolpotcc.com/*
 *://*.copoen.cn/*
+*://*.corbistore.buzz/*
 *://*.corkyevans.buzz/*
 *://*.corningfranklinhealth.buzz/*
 *://*.corporatediversions.buzz/*
@@ -3365,6 +3426,7 @@ title/.* - 小.(百科|知识)网/
 *://*.czzrui.com/*
 *://*.czzxtl.com/*
 *://*.czzymy.com/*
+*://*.d.zymrg.com/*
 *://*.d1wnuzt.cn/*
 *://*.d2e3ylg.cn/*
 *://*.d2f4gfn.cn/*
@@ -3391,6 +3453,7 @@ title/.* - 小.(百科|知识)网/
 *://*.daosuchaokuai.cn/*
 *://*.dashangvip.com/*
 *://*.dashdirectory.buzz/*
+*://*.dashen365.com/*
 *://*.datatianji.com/*
 *://*.datianlong.cn/*
 *://*.davidsonandrade.buzz/*
@@ -3490,6 +3553,7 @@ title/.* - 小.(百科|知识)网/
 *://*.dmfxy.com/*
 *://*.dmgogo.com/*
 *://*.dmi286.com/*
+*://*.dmxylll.com/*
 *://*.dn878ou.cn/*
 *://*.dnc8.cn/*
 *://*.dnf0451.com/*
@@ -3497,9 +3561,13 @@ title/.* - 小.(百科|知识)网/
 *://*.dnruxet.cn/*
 *://*.dnxzesj.cn/*
 *://*.doak5vx.cn/*
+*://*.docgord.buzz/*
+*://*.docteur-joseph.buzz/*
 *://*.dodsonfineart.buzz/*
+*://*.dolchul.buzz/*
 *://*.domihp.com/*
 *://*.domy365.com/*
+*://*.don-mar.buzz/*
 *://*.dongchangmotors.buzz/*
 *://*.dongfangeb.com/*
 *://*.dormgoodies.buzz/*
@@ -3672,6 +3740,7 @@ title/.* - 小.(百科|知识)网/
 *://*.ete68e1.cn/*
 *://*.etf-world.buzz/*
 *://*.etfdep.cn/*
+*://*.etq3ae.cn/*
 *://*.etzel-ostfriesland.de/*
 *://eu.fwbdl.com/*
 *://*.eucho.cn/*
@@ -3682,8 +3751,10 @@ title/.* - 小.(百科|知识)网/
 *://*.euxvfhw.cn/*
 *://*.ev3vtev.cn/*
 *://*.evalvzw.cn/*
+*://*.evdbus.com/*
 *://*.eventidigitali.buzz/*
 *://*.evilmaple.cn/*
+*://*.ewhae.buzz/*
 *://*.ewihfuu.cn/*
 *://*.ewonm.cn/*
 *://*.excamtest.cn/*
@@ -3713,6 +3784,7 @@ title/.* - 小.(百科|知识)网/
 *://*.f81llg.cn/*
 *://*.f8bgrmp.cn/*
 *://*.fa0vu8h.cn/*
+*://*.fabioinghiramiwatch.buzz/*
 *://*.facecg.com/*
 *://*.faguoboss.com/*
 *://*.fairer.cn/*
@@ -3724,6 +3796,7 @@ title/.* - 小.(百科|知识)网/
 *://*.familycomputerusa.buzz/*
 *://*.fanaticism.cn/*
 *://*.fanfv.com/*
+*://*.fang2000.com/*
 *://*.fangmeiwen.com/*
 *://*.fangxiaojie20082008.cn/*
 *://*.fanslive.cn/*
@@ -3770,7 +3843,9 @@ title/.* - 小.(百科|知识)网/
 *://*.fire-club.cn/*
 *://*.firstcp.cn/*
 *://*.fish996.com/*
+*://*.fishdes.buzz/*
 *://*.fishdm.com/*
+*://*.fitid.buzz/*
 *://*.fitzfirst.buzz/*
 *://*.fivecoloursearth.buzz/*
 *://*.fizet14.cn/*
@@ -3780,6 +3855,7 @@ title/.* - 小.(百科|知识)网/
 *://*.fjhgm.com/*
 *://*.fjjbwz.com/*
 *://*.fjljbl.com/*
+*://*.fjpruv.cn/*
 *://*.fjptnews.com/*
 *://*.fjqhsj.com/*
 *://*.fjtnkhx.cn/*
@@ -3836,6 +3912,7 @@ title/.* - 小.(百科|知识)网/
 *://*.fsnz9bp.cn/*
 *://*.fssibo.com/*
 *://*.fsweini.com/*
+*://*.fsyema.com/*
 *://*.fszmyjiaju.com/*
 *://*.ftf8.cn/*
 *://*.ftt8.cn/*
@@ -3847,6 +3924,7 @@ title/.* - 小.(百科|知识)网/
 *://*.fuqfour.cn/*
 *://*.furenniao.com/*
 *://*.furenshoes.cn/*
+*://*.fuse12.buzz/*
 *://*.fushuokang.com/*
 *://*.futanqihcd.com/*
 *://*.futengfy.com/*
@@ -3898,6 +3976,7 @@ title/.* - 小.(百科|知识)网/
 *://*.gaokaobj.cn/*
 *://*.gaolou9899.cn/*
 *://*.gaomi88.com/*
+*://*.garantiparamatik.buzz/*
 *://*.gatenet1.buzz/*
 *://*.gatos.buzz/*
 *://*.gaypla.com/*
@@ -3911,6 +3990,7 @@ title/.* - 小.(百科|知识)网/
 *://*.gc0519.com/*
 *://*.gcg8.cn/*
 *://*.gcm888.com/*
+*://*.gcxmx.com/*
 *://*.gd29.cn/*
 *://*.gdakj.com/*
 *://*.gdboxinda.com/*
@@ -3921,6 +4001,7 @@ title/.* - 小.(百科|知识)网/
 *://*.gdjumoou.com/*
 *://*.gdpmtx.com/*
 *://*.gdrellet.com/*
+*://*.gdsyi.com/*
 *://*.gdzsgb.cn/*
 *://*.gear88.com/*
 *://*.gebvrl0.cn/*
@@ -3928,6 +4009,7 @@ title/.* - 小.(百科|知识)网/
 *://*.gegoods.com/*
 *://*.gelanbao.cn/*
 *://*.gene-therapeutix.buzz/*
+*://*.gerecippower.buzz/*
 *://*.getaoquan.com/*
 *://*.gfart.cn/*
 *://*.gfgyyq.com/*
@@ -3992,6 +4074,7 @@ title/.* - 小.(百科|知识)网/
 *://*.godluck.cn/*
 *://*.gofood365.com/*
 *://*.gogogm.com/*
+*://*.gogoyahoo.buzz/*
 *://*.gojgs.com/*
 *://*.goktkbf.cn/*
 *://*.goldenotes.com/*
@@ -4047,7 +4130,9 @@ title/.* - 小.(百科|知识)网/
 *://*.guauto.cn/*
 *://*.gubaizx.com/*
 *://*.guchengol.com/*
+*://*.guerilla-medien.buzz/*
 *://*.guheihei.com/*
+*://*.guide-internaute.buzz/*
 *://*.gujisc.com/*
 *://*.guk120.com/*
 *://*.guleitai.com/*
@@ -4172,6 +4257,7 @@ title/.* - 小.(百科|知识)网/
 *://*.hbhuadn.com/*
 *://*.hbhzxjt.com/*
 *://*.hbjda.com/*
+*://*.hbjianbang.com/*
 *://*.hbnjajm.cn/*
 *://*.hbrszz.com/*
 *://*.hbshsh.cn/*
@@ -4179,10 +4265,12 @@ title/.* - 小.(百科|知识)网/
 *://*.hbtscm.com/*
 *://*.hbttjgj.com/*
 *://*.hbxswy.com/*
+*://*.hbynfen.com/*
 *://*.hbyrs.com/*
 *://*.hbysa.com/*
 *://*.hbytenergy.com/*
 *://*.hbyuejimei.com/*
+*://*.hbzdwr.cn/*
 *://*.hbzhct.com/*
 *://*.hc380la.com/*
 *://*.hcnpqu.cn/*
@@ -4199,15 +4287,19 @@ title/.* - 小.(百科|知识)网/
 *://*.hdqqqfqpjb.com/*
 *://*.hdtmuh7.cn/*
 *://*.hdvahls.cn/*
+*://*.health-enhancement.buzz/*
 *://*.healths120.com/*
 *://*.healthtagtw.com/*
 *://*.healthy-resources.buzz/*
 *://*.hebeiguosu.com/*
 *://*.hebiluban.com/*
 *://*.hecsoft.cn/*
+*://*.hedamall.com/*
 *://*.hedatong.com/*
 *://*.hedebao.cn/*
+*://*.heelquik-ec.buzz/*
 *://*.heheqc.com/*
+*://*.heidschnucken.buzz/*
 *://*.heimaboke.com/*
 *://*.heistzone.buzz/*
 *://*.heizhilin.com/*
@@ -4313,6 +4405,7 @@ title/.* - 小.(百科|知识)网/
 *://*.holsbyror.buzz/*
 *://*.holtqel.cn/*
 *://*.homefindernow.buzz/*
+*://*.homefindersint.buzz/*
 *://*.homes-condos-nj-real-estate-agent.buzz/*
 *://*.homesafetydirect.buzz/*
 *://*.homeshownet.buzz/*
@@ -4455,6 +4548,7 @@ title/.* - 小.(百科|知识)网/
 *://*.hzxhhb.com/*
 *://*.hzzzylsw.com/*
 *://*.hzzzytxy.cn/*
+*://*.i-net-market.buzz/*
 *://*.i0vmua0.cn/*
 *://*.i262.cn/*
 *://*.i2bau1.cn/*
@@ -4465,6 +4559,7 @@ title/.* - 小.(百科|知识)网/
 *://*.i5yu0lo.cn/*
 *://*.i9pdwe2.cn/*
 *://*.ia0b6n.cn/*
+*://*.iamjer.com/*
 *://*.iartpai.com/*
 *://*.ib4banks.buzz/*
 *://*.ibaobaoche.com/*
@@ -4527,6 +4622,7 @@ title/.* - 小.(百科|知识)网/
 *://*.imzx9e7.cn/*
 *://*.in-soft.cn/*
 *://*.incj1ce.cn/*
+*://*.infinite-visions.buzz/*
 *://*.infonerve.com/*
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
@@ -4535,9 +4631,11 @@ title/.* - 小.(百科|知识)网/
 *://*.integratedpaperservice.buzz/*
 *://*.intellisys-haiti.buzz/*
 *://*.internet-masters.buzz/*
+*://*.internetshoppingusa.buzz/*
 *://*.intubang.com/*
 *://*.iocp.cn/*
 *://*.ioeduc.com/*
+*://*.ioffeer.buzz/*
 *://*.ipcnpdu.cn/*
 *://*.ipgclub.com/*
 *://*.iphonezu.com/*
@@ -4554,6 +4652,7 @@ title/.* - 小.(百科|知识)网/
 *://*.it1256.com/*
 *://*.it235.cn/*
 *://*.it5120.com/*
+*://*.italgrip.buzz/*
 *://*.itaotaotao.com/*
 *://*.itchosun.buzz/*
 *://*.itmpi-journal.buzz/*
@@ -4621,6 +4720,7 @@ title/.* - 小.(百科|知识)网/
 *://*.jellycc2.com/*
 *://*.jertcm.com/*
 *://*.jesslininteriors.buzz/*
+*://*.jesushelbreder.buzz/*
 *://*.jesusjunction.buzz/*
 *://*.jet-ex-logistic.buzz/*
 *://*.jetsharon.com/*
@@ -4662,6 +4762,7 @@ title/.* - 小.(百科|知识)网/
 *://*.jike666.com/*
 *://*.jikeqi.com/*
 *://*.jiliresin.cn/*
+*://*.jimev1softwares.buzz/*
 *://*.jin766.com/*
 *://*.jincaimiye.com/*
 *://*.jinda2008.com/*
@@ -4789,6 +4890,7 @@ title/.* - 小.(百科|知识)网/
 *://*.jumeistone.com/*
 *://*.junan88.cn/*
 *://*.junckerbros.buzz/*
+*://*.junfeisign.com/*
 *://*.jungarian.buzz/*
 *://*.junjumall.com/*
 *://*.juqingtang.com/*
@@ -4816,6 +4918,7 @@ title/.* - 小.(百科|知识)网/
 *://*.jxmcsj.com/*
 *://*.jxmhwxd.com/*
 *://*.jxmmpf.com/*
+*://*.jxncwdc.com/*
 *://*.jxqhpz.com/*
 *://*.jxqlgg.com/*
 *://*.jxshenyi.com/*
@@ -4847,6 +4950,7 @@ title/.* - 小.(百科|知识)网/
 *://*.k42b0k.cn/*
 *://*.k5e914.cn/*
 *://*.k7f6g.cn/*
+*://*.k7so2q.cn/*
 *://*.k7stccl.cn/*
 *://*.k9boxes.buzz/*
 *://*.k9hz4u8.cn/*
@@ -4878,6 +4982,7 @@ title/.* - 小.(百科|知识)网/
 *://*.kcjcgs.com/*
 *://*.kclbs.com/*
 *://*.kcontest.com/*
+*://*.kcp58.com/*
 *://*.kcx8.cn/*
 *://*.kdfkq.com/*
 *://*.kdlcaie.cn/*
@@ -4885,7 +4990,9 @@ title/.* - 小.(百科|知识)网/
 *://*.kedecity.com/*
 *://*.kediyamall.com/*
 *://*.kefu111.cn/*
+*://*.kelly99.buzz/*
 *://*.kemicloud.com/*
+*://*.kenneltbob.buzz/*
 *://*.kesicqh.cn/*
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
@@ -5007,6 +5114,7 @@ title/.* - 小.(百科|知识)网/
 *://*.lakewhitneyviews.buzz/*
 *://*.laksila.buzz/*
 *://*.lalibertejb.buzz/*
+*://*.lalouve.buzz/*
 *://*.landisem.com/*
 *://*.langemfo.com/*
 *://*.lanh1.com/*
@@ -5015,12 +5123,14 @@ title/.* - 小.(百科|知识)网/
 *://*.lanweidong.com/*
 *://*.laodnf.com/*
 *://*.laojunshan2.cn/*
+*://*.laonmw.cn/*
 *://*.laoshu8.cn/*
 *://*.lapiramideweb.buzz/*
 *://*.laser-imprints.buzz/*
 *://*.lawkoo.com/*
 *://*.lawtagtw.com/*
 *://*.lb060.com/*
+*://*.lbc-services.buzz/*
 *://*.lbjbvkj.cn/*
 *://*.lbszftg.cn/*
 *://*.lc598.com/*
@@ -5213,6 +5323,7 @@ title/.* - 小.(百科|知识)网/
 *://*.luguang.net.cn/*
 *://*.lulugaobag.com/*
 *://*.lunmm.com/*
+*://*.luogou8.com/*
 *://*.luowendong.com/*
 *://*.luowenling.cn/*
 *://*.luqinblog.com/*
@@ -5262,6 +5373,7 @@ title/.* - 小.(百科|知识)网/
 *://*.m2er.cn/*
 *://*.m2v5ofa.cn/*
 *://*.m3hyyx.cn/*
+*://*.m3i9yq.cn/*
 *://*.m4vvddc.cn/*
 *://*.m882cen.cn/*
 *://*.m9myzp.cn/*
@@ -5278,6 +5390,7 @@ title/.* - 小.(百科|知识)网/
 *://*.magicalcn.com/*
 *://*.maguro.cn/*
 *://*.mai14.com/*
+*://*.maijingang.com/*
 *://*.mailwork.cn/*
 *://*.maison-gourmet.buzz/*
 *://*.maiweichi.com/*
@@ -5302,6 +5415,7 @@ title/.* - 小.(百科|知识)网/
 *://*.mariaswebdesign.buzz/*
 *://*.marybethhouse.buzz/*
 *://*.maryellenmacke.buzz/*
+*://*.massillonmotors.buzz/*
 *://*.matbakhe.com/*
 *://*.matsa168.com/*
 *://*.mauhtcw.cn/*
@@ -5371,6 +5485,7 @@ title/.* - 小.(百科|知识)网/
 *://*.milubuy.com/*
 *://*.mincoon.com/*
 *://*.mindongsc.com/*
+*://*.ming-micro.buzz/*
 *://*.mingrenze.com/*
 *://*.minijiaju.com/*
 *://*.miudang.cn/*
@@ -5448,6 +5563,7 @@ title/.* - 小.(百科|知识)网/
 *://*.mtn88.com/*
 *://*.mtsinaiinfo.buzz/*
 *://*.mtvcafe.buzz/*
+*://*.mtvidc.com/*
 *://*.mtzposb.com/*
 *://*.mu868.com/*
 *://*.mugongzhe.com/*
@@ -5481,6 +5597,7 @@ title/.* - 小.(百科|知识)网/
 *://*.myqqfc.com/*
 *://*.myronlevoy.buzz/*
 *://*.mysgcw.com/*
+*://*.mytlebeechinfo.buzz/*
 *://*.mytnet.cn/*
 *://*.myudesign.cn/*
 *://*.mywendu.com/*
@@ -5509,6 +5626,7 @@ title/.* - 小.(百科|知识)网/
 *://*.nameonly.cn/*
 *://*.nanbense.com/*
 *://*.nanning333.com/*
+*://*.nanxinet.com/*
 *://*.nashville-collection.buzz/*
 *://*.nasu1.com/*
 *://*.natural-access.buzz/*
@@ -5583,6 +5701,7 @@ title/.* - 小.(百科|知识)网/
 *://*.njhaichuan.com/*
 *://*.njhuarun.com/*
 *://*.njp8.cn/*
+*://*.njperennialgardens.buzz/*
 *://*.njplwm.com/*
 *://*.njq8.cn/*
 *://*.njrqhd.com/*
@@ -5614,6 +5733,7 @@ title/.* - 小.(百科|知识)网/
 *://*.no54hagleyroad.buzz/*
 *://*.nodep2p.com/*
 *://*.noiseofmax.net/*
+*://*.nonglidqw.com/*
 *://*.nonlehui.com/*
 *://*.nonrcjh.cn/*
 *://*.noodv.com/*
@@ -5626,6 +5746,7 @@ title/.* - 小.(百科|知识)网/
 *://*.nqp8.cn/*
 *://*.nrjija.cn/*
 *://*.nrm8.cn/*
+*://*.nrmlmu.cn/*
 *://*.nrv0jd0.cn/*
 *://*.nrx8.cn/*
 *://*.nsea9ex.cn/*
@@ -5727,12 +5848,14 @@ title/.* - 小.(百科|知识)网/
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
 *://*.orbit-marine.buzz/*
+*://*.orbital-solutions.buzz/*
 *://*.ordoscx.com/*
 *://*.orellion.com/*
 *://*.orgnik.cn/*
 *://*.orienco.buzz/*
 *://*.orifqqi.cn/*
 *://*.ork8t2.cn/*
+*://*.os8d0f.cn/*
 *://*.osevcy0.cn/*
 *://*.osmazt.cn/*
 *://*.osobuy.com/*
@@ -5812,6 +5935,7 @@ title/.* - 小.(百科|知识)网/
 *://*.perhu.com/*
 *://*.personalcreatiions.buzz/*
 *://*.personbiler.buzz/*
+*://*.pet-hk.buzz/*
 *://*.peterrohner.buzz/*
 *://*.pexf.cn/*
 *://*.pflegeinfo24.buzz/*
@@ -5824,7 +5948,9 @@ title/.* - 小.(百科|知识)网/
 *://*.pgtqcec.cn/*
 *://*.phafbas.cn/*
 *://*.phdehr.cn/*
+*://*.phone-hk.buzz/*
 *://*.photo-fax.buzz/*
+*://*.photocaro-inc.buzz/*
 *://*.photoproxi.buzz/*
 *://*.photosyu.com/*
 *://*.phqyauh.cn/*
@@ -5855,6 +5981,7 @@ title/.* - 小.(百科|知识)网/
 *://*.pkkpva.cn/*
 *://*.pl91.cn/*
 *://*.planet7tech.buzz/*
+*://*.planetelex.buzz/*
 *://*.planetoffside.buzz/*
 *://*.plant-wide.buzz/*
 *://*.plat96.com/*
@@ -5875,6 +6002,7 @@ title/.* - 小.(百科|知识)网/
 *://*.poemsoft.com/*
 *://*.poetnamelife.buzz/*
 *://*.poid7.cn/*
+*://*.poketoys.buzz/*
 *://*.pomdapi-shoes.buzz/*
 *://*.pond-view.buzz/*
 *://*.ponvn.cn/*
@@ -5955,6 +6083,7 @@ title/.* - 小.(百科|知识)网/
 *://*.q48ro3t.cn/*
 *://*.q5pp.cn/*
 *://*.q67sfh8.cn/*
+*://*.q7forum.buzz/*
 *://*.q844h.cn/*
 *://*.q9vmpio.cn/*
 *://*.qacjjc.com/*
@@ -6058,6 +6187,7 @@ title/.* - 小.(百科|知识)网/
 *://*.qt25.cn/*
 *://*.qt39.cn/*
 *://*.qtddbzm.cn/*
+*://*.qtsr36.cn/*
 *://*.quality-info.cn/*
 *://*.quangaoxie.com/*
 *://*.quanjingsc.com/*
@@ -6136,12 +6266,15 @@ title/.* - 小.(百科|知识)网/
 *://*.rebatesu.com/*
 *://*.redspicks.buzz/*
 *://*.redsunbaby.cn/*
+*://*.redveronica.buzz/*
 *://*.reevm.com/*
 *://*.relocate-us.buzz/*
 *://*.remorquesboeglin.buzz/*
 *://*.renfas.com/*
 *://*.renliuhs.cn/*
+*://*.rentals-bg.buzz/*
 *://*.resoleusa.buzz/*
+*://*.resolutionrealtyinc.buzz/*
 *://*.retainedvscontingent.buzz/*
 *://*.return-on-ideas.buzz/*
 *://*.rf67.cn/*
@@ -6160,6 +6293,7 @@ title/.* - 小.(百科|知识)网/
 *://*.ribenzyy.com/*
 *://*.ridhtech.com/*
 *://*.rijooyn.cn/*
+*://*.risecny.buzz/*
 *://*.rition.cn/*
 *://*.riverexec.buzz/*
 *://*.rjq8.cn/*
@@ -6187,10 +6321,12 @@ title/.* - 小.(百科|知识)网/
 *://*.rodwfro.cn/*
 *://*.roemi.cn/*
 *://*.roism.cn/*
+*://*.roldanmc.buzz/*
 *://*.romancestop.buzz/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
 *://*.roseanhome.com/*
+*://*.roycephotographics.buzz/*
 *://*.rp22.cn/*
 *://*.rpf8.cn/*
 *://*.rpfwtbx.cn/*
@@ -6202,11 +6338,13 @@ title/.* - 小.(百科|知识)网/
 *://*.rrfox.com/*
 *://*.rrlyjt.com/*
 *://*.rrn8.cn/*
+*://*.rrrstudios.buzz/*
 *://*.rrtts.com/*
 *://*.rru8lv.cn/*
 *://*.rs8zid4.cn/*
 *://*.rs91.cn/*
 *://*.rsb8.cn/*
+*://*.rscmy365.com/*
 *://*.rsjn4h1.cn/*
 *://*.rstzjt.com/*
 *://*.rtg8.cn/*
@@ -6255,6 +6393,7 @@ title/.* - 小.(百科|知识)网/
 *://*.s32101.com/*
 *://*.s3dtsm4.cn/*
 *://*.s41r9mn.cn/*
+*://*.s4hhhq.cn/*
 *://*.s6mrt44.cn/*
 *://*.s7bhco.cn/*
 *://*.s84sz06.cn/*
@@ -6281,6 +6420,7 @@ title/.* - 小.(百科|知识)网/
 *://*.sansl0005.cn/*
 *://*.sansuitc.com/*
 *://*.santafepathways.buzz/*
+*://*.sanxingduii.com/*
 *://*.sanzda.com/*
 *://*.saoweb.cn/*
 *://*.sartoriamoderna.com/*
@@ -6348,6 +6488,7 @@ title/.* - 小.(百科|知识)网/
 *://*.sduqyxv.cn/*
 *://*.sdxinjia.com/*
 *://*.sdyujinji.com/*
+*://*.seaofredinc.buzz/*
 *://*.sebina2006.cn/*
 *://*.seccedu.com/*
 *://*.seinewind.com/*
@@ -6437,6 +6578,7 @@ title/.* - 小.(百科|知识)网/
 *://*.shxmdt.cn/*
 *://*.shxtyb.cn/*
 *://*.shyuandan.com/*
+*://*.shyuejing.com/*
 *://*.shyxjmzc.com/*
 *://*.shzengsi.com/*
 *://*.sifuqi123.com/*
@@ -6469,6 +6611,7 @@ title/.* - 小.(百科|知识)网/
 *://*.skcard.cn/*
 *://*.skflawyer.com/*
 *://*.skh1oni.cn/*
+*://*.skipsfiesta.buzz/*
 *://*.sklbv40.cn/*
 *://*.sky315.com/*
 *://*.skyboxconsult.buzz/*
@@ -6526,11 +6669,13 @@ title/.* - 小.(百科|知识)网/
 *://*.sqhnxw.com/*
 *://*.sqn8.cn/*
 *://*.sqp.buzz/*
+*://*.sr0csj.cn/*
 *://*.sr0lsgr.cn/*
 *://*.sr1490.com/*
 *://*.srstoq.com/*
 *://*.ss7fuek.cn/*
 *://*.ssccardinals.buzz/*
+*://*.ssdijingg.com/*
 *://*.sse-erfurt.buzz/*
 *://*.ssghxl.com/*
 *://*.ssglnkyy.com/*
@@ -6551,6 +6696,7 @@ title/.* - 小.(百科|知识)网/
 *://*.stayhomebiz.buzz/*
 *://*.stclairsupply.buzz/*
 *://*.stcymy.cn/*
+*://*.stephenmiao.cn/*
 *://*.sth8.cn/*
 *://*.sthm6608.com/*
 *://*.sthtsd.cn/*
@@ -6577,6 +6723,7 @@ title/.* - 小.(百科|知识)网/
 *://*.superchanges.buzz/*
 *://*.superclubs.com.cn/*
 *://*.supremeppe.buzz/*
+*://*.surf4gifts.buzz/*
 *://*.surprise8.com/*
 *://*.survillance.buzz/*
 *://*.sushiyigou.com/*
@@ -6810,6 +6957,7 @@ title/.* - 小.(百科|知识)网/
 *://*.tntpump.cn/*
 *://*.to3to.com/*
 *://*.tobomb.com/*
+*://*.togetmarried.buzz/*
 *://*.tokp2wz.cn/*
 *://*.tonghejiu.com/*
 *://*.tongpixie.com/*
@@ -6858,8 +7006,10 @@ title/.* - 小.(百科|知识)网/
 *://*.tuconsultor.buzz/*
 *://*.tudou478.cn/*
 *://*.tudou56.com/*
+*://*.tudoudileii.com/*
 *://*.turf-seed-china.buzz/*
 *://*.tusfam.com/*
+*://*.tuvanduhoc.buzz/*
 *://*.tuwends.com/*
 *://*.tvbyulee.com/*
 *://*.tvbzhentan.com/*
@@ -6892,6 +7042,7 @@ title/.* - 小.(百科|知识)网/
 *://*.tzzgcm.com/*
 *://*.u0b9um3.cn/*
 *://*.u0t8i03.cn/*
+*://*.u0xcy3r.cn/*
 *://*.u1cdpt1.cn/*
 *://*.u1nkwxv.cn/*
 *://*.u1vzj28.cn/*
@@ -6933,6 +7084,7 @@ title/.* - 小.(百科|知识)网/
 *://*.umrhyqo.cn/*
 *://*.un2dn07.cn/*
 *://*.unicacontract.buzz/*
+*://*.unlimited-results.buzz/*
 *://*.unsfunnfifxa.buzz/*
 *://*.uo4kuj1.cn/*
 *://*.up3600.com/*
@@ -7003,8 +7155,11 @@ title/.* - 小.(百科|知识)网/
 *://*.vhoyizi.cn/*
 *://*.vhted6p.cn/*
 *://*.vi-fr.buzz/*
+*://*.viaunomexico.buzz/*
 *://*.vicorner.com/*
 *://*.viddie.buzz/*
+*://*.videogameplaza.buzz/*
+*://*.viewpointcom.buzz/*
 *://*.viicm.com/*
 *://*.vijpnmu.cn/*
 *://*.vioary.com/*
@@ -7012,6 +7167,8 @@ title/.* - 小.(百科|知识)网/
 *://*.vip9456.com/*
 *://*.vipaid.cn/*
 *://*.vipdailian.com/*
+*://*.virtualtoke.buzz/*
+*://*.visit99.buzz/*
 *://*.visitnetherland.buzz/*
 *://*.visualxxx.buzz/*
 *://*.vitality-spirit.buzz/*
@@ -7089,6 +7246,7 @@ title/.* - 小.(百科|知识)网/
 *://*.wanxi520.com/*
 *://*.wapk8.cn/*
 *://*.warframecn.com/*
+*://*.washingtonmonarch.buzz/*
 *://*.waunwmcn.cn/*
 *://*.waynepmj.com/*
 *://*.waynon.com/*
@@ -7106,6 +7264,8 @@ title/.* - 小.(百科|知识)网/
 *://*.wdfyw.com/*
 *://*.wdrczp.com/*
 *://*.we8866.cn/*
+*://*.web-cottage.buzz/*
+*://*.webcorreu.buzz/*
 *://*.webdurable.com/*
 *://*.webfootmedia.buzz/*
 *://*.webholland.buzz/*
@@ -7136,6 +7296,7 @@ title/.* - 小.(百科|知识)网/
 *://*.wenduyun.com/*
 *://*.wenlongkm.com/*
 *://*.weswift.cn/*
+*://*.wetasia.buzz/*
 *://*.wevopsj.cn/*
 *://*.wf33.cn/*
 *://*.wffd3cl.cn/*
@@ -7151,6 +7312,7 @@ title/.* - 小.(百科|知识)网/
 *://*.wh263.cn/*
 *://*.whb2r9q.cn/*
 *://*.whcrsl.cn/*
+*://*.whcxzj.com/*
 *://*.whdanni.cn/*
 *://*.whdpp.com/*
 *://*.wheelmaster.cn/*
@@ -7160,6 +7322,7 @@ title/.* - 小.(百科|知识)网/
 *://*.whhgzn.cn/*
 *://*.whhodz.com/*
 *://*.whhongdun.com/*
+*://*.whirpoolariconditioning.buzz/*
 *://*.whitehurstclark.buzz/*
 *://*.whitescorporation.buzz/*
 *://*.whjnrj.com/*
@@ -7368,6 +7531,7 @@ title/.* - 小.(百科|知识)网/
 *://*.xhzhang.com/*
 *://*.xian59.com/*
 *://*.xianfh.cn/*
+*://*.xiang168169.cn/*
 *://*.xiangbaola.com/*
 *://*.xiangdian.net.cn/*
 *://*.xianguoge.com/*
@@ -7416,7 +7580,9 @@ title/.* - 小.(百科|知识)网/
 *://*.xiuczi3.cn/*
 *://*.xiumicar.com/*
 *://*.xiwenfs.cn/*
+*://*.xiyayuan.com/*
 *://*.xiyicao.cn/*
+*://*.xiyouyw.com/*
 *://*.xizangwa.buzz/*
 *://*.xizhuanyx.com/*
 *://*.xjjfss.com/*
@@ -7459,6 +7625,7 @@ title/.* - 小.(百科|知识)网/
 *://*.xo3hn8q.cn/*
 *://*.xobfukf.cn/*
 *://*.xogljgp.cn/*
+*://*.xp7rb9.cn/*
 *://*.xphym.com/*
 *://*.xptian.com/*
 *://*.xpwp.com.cn/*
@@ -7693,6 +7860,7 @@ title/.* - 小.(百科|知识)网/
 *://*.youjinjia.com/*
 *://*.youngcadillac.buzz/*
 *://*.younginnocence.buzz/*
+*://*.youqug.com/*
 *://*.youree.buzz/*
 *://*.yourselfdo.cn/*
 *://*.youxwli.com/*
@@ -7927,6 +8095,7 @@ title/.* - 小.(百科|知识)网/
 *://*.zjyeya.com/*
 *://*.zjyylk.com/*
 *://*.zjzyfm.com/*
+*://*.zkaf4d.cn/*
 *://*.zkjdz.cn/*
 *://*.zkjsq.cn/*
 *://*.zkwnj.com/*
@@ -7993,6 +8162,7 @@ title/.* - 小.(百科|知识)网/
 *://*.zxzq558.com/*
 *://*.zy569.com/*
 *://*.zydmsh.com/*
+*://*.zydo1cz.cn/*
 *://*.zyehouse.com/*
 *://*.zyf2008.com/*
 *://*.zyfkz.com/*
