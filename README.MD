@@ -29,7 +29,7 @@
 Github : `https://git.io/gblock`
 
 ```
-https://github.com/Paxxs/Google-Blocklist/raw/develop/uBlacklist_subscription.txt
+https://raw.githubusercontent.com/Paxxs/Google-Blocklist/develop/uBlacklist_subscription.txt
 ```
 
 CDN加速（适合内陆用户）：
@@ -50,3 +50,5 @@ https://cdn.jsdelivr.net/gh/Paxxs/Google-Blocklist@develop/uBlacklist_subscripti
 - 使用 Google 搜索时收集
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
 - [dallaslu/penzai-list: list of g.penzai.com](https://github.com/dallaslu/penzai-list)
+- [liubiantao/uBlacklist-Websites: 谷歌搜索结果中屏蔽机器翻译网站](https://github.com/liubiantao/uBlacklist-Websites)
+- [arosh/ublacklist-stackoverflow-translation: Stack Overflow の机械翻訳サイトの除外用フィルタ](https://github.com/arosh/ublacklist-stackoverflow-translation)

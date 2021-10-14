@@ -3,7 +3,8 @@ local_subscriptions:
   - ./data/match_patterns.txt
   - ./data/uBlacklist_subscription.txt
 remote_subscriptions: 
-  - https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/raw/master/uBlacklist_match_patterns.txt
-  - https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/raw/master/uBlacklist_subscription.txt
-  - https://github.com/dallaslu/penzai-list/raw/main/uBlacklist.txt
-  - https://github.com/liubiantao/uBlacklist-Websites/raw/master/uBlacklist.txt
+  - https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_match_patterns.txt
+  - https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt
+  - https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt
+  - https://raw.githubusercontent.com/liubiantao/uBlacklist-Websites/master/uBlacklist.txt
+  - https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
