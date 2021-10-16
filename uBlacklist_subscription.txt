@@ -8414,3 +8414,4 @@ title/.* - 小.(百科|知识)网/
 *://quabr.com/*
 *://www.webdevqa.jp.net/*
 *://*.exceptionshub.com/*
+*://newbedev.com/*
