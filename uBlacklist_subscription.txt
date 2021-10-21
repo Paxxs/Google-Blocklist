@@ -8491,3 +8491,4 @@ title/.*一键访问国外网站/
 *://www.webdevqa.jp.net/*
 *://*.exceptionshub.com/*
 *://newbedev.com/*
+*://pretagteam.com/*
