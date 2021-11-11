@@ -8406,6 +8406,7 @@ title/.*一键访问国外网站/
 *://*.it-swarm.dev/*
 *://code-examples.net/*
 *://kotaeta.com/*
+*://answer-id.com/*
 *://code.i-harness.com/*
 *://living-sun.com/*
 *://tutorialmore.com/*
@@ -8463,6 +8464,7 @@ title/.*一键访问国外网站/
 *://*.pcbconline.org/*
 *://www.nuomiphp.com/*
 *://ubuntu.buildwebhost.com/*
+*://ubuntuaa.com/*
 *://www.debugcn.com/*
 *://*.sch22.org/*
 *://*.gupgallery.com/*
@@ -8472,7 +8474,7 @@ title/.*一键访问国外网站/
 *://*.domainelespailles.net/*
 *://*.ec-europe.org/*
 *://*.pakostnici.com/*
-*://try2explore.com/*
+*://*.try2explore.com/*
 *://laravelquestions.com/*
 *://itectec.com/*
 *://stackovergo.com/*
@@ -8487,10 +8489,11 @@ title/.*一键访问国外网站/
 *://*.ourladylakes.org/*
 *://intellipaat.com/*
 *://article.docway.net/*
+*://xiu2.net/*
 *://codehero.jp/*
 *://quabr.com/*
 *://www.webdevqa.jp.net/*
-*://*.exceptionshub.com/*
+*://exceptionshub.com/*
 *://newbedev.com/*
 *://pretagteam.com/*
 *://www.codenong.com/*
