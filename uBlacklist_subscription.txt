@@ -8544,3 +8544,6 @@ title/.*一键访问国外网站/
 *://newbedev.com/*
 *://pretagteam.com/*
 *://www.codenong.com/*
+*://cainiaojiaocheng.com/*
+*://routinepanic.com/*
+*://pythonwd.com/*
