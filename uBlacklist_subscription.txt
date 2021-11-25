@@ -2498,6 +2498,7 @@ title/.*一键访问国外网站/
 *://*.797590.com/*
 *://*.79umi0z.cn/*
 *://*.7aj4vik.cn/*
+*://*.7chetuan.com/*
 *://*.7cka.com/*
 *://*.7dapps.com/*
 *://*.7daysle.com/*
@@ -3701,6 +3702,7 @@ title/.*一键访问国外网站/
 *://*.dmfxy.com/*
 *://*.dmgogo.com/*
 *://*.dmi286.com/*
+*://*.dmjx.com/*
 *://*.dmxylll.com/*
 *://*.dn878ou.cn/*
 *://*.dnc8.cn/*
@@ -4102,6 +4104,7 @@ title/.*一键访问国外网站/
 *://*.fyy5.com/*
 *://*.fyybs.com/*
 *://*.fzflbj.com/*
+*://*.fzfydbj.com/*
 *://*.fzlive.cn/*
 *://*.fzsmlcn.com/*
 *://*.fzxunjie.com/*
@@ -4198,6 +4201,7 @@ title/.*一键访问国外网站/
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
+*://*.glehe.com/*
 *://*.glhsmm.com/*
 *://*.glhxrh.com/*
 *://*.gln8fbe.cn/*
@@ -4697,6 +4701,7 @@ title/.*一键访问国外网站/
 *://*.hzjdt.com/*
 *://*.hzjgjk.com/*
 *://*.hzjihe.com/*
+*://*.hzjiucheng.com/*
 *://*.hzjj0s4.cn/*
 *://*.hzjkw.cn/*
 *://*.hzjqhz.com/*
@@ -6020,6 +6025,7 @@ title/.*一键访问国外网站/
 *://*.op081ek.cn/*
 *://*.opag.buzz/*
 *://*.opeck.cn/*
+*://*.optoviki.buzz/*
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
 *://*.orbit-marine.buzz/*
@@ -6992,6 +6998,7 @@ title/.*一键访问国外网站/
 *://*.t0tmdqj.cn/*
 *://*.t109jgz.cn/*
 *://*.t1njhjn.cn/*
+*://*.t2gcap.com/*
 *://*.t2zmjr0.cn/*
 *://*.t3ql4vu.cn/*
 *://*.t3tu774.cn/*
