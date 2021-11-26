@@ -5102,6 +5102,7 @@ title/.*一键访问国外网站/
 *://*.jzcqs.com/*
 *://*.jzdxcmm.com/*
 *://*.jznbzl.com/*
+*://*.jzsalq.com/*
 *://*.jzship88.com/*
 *://*.jzsytj.com/*
 *://*.jzyxmx.com/*
@@ -5194,6 +5195,7 @@ title/.*一键访问国外网站/
 *://*.klmnv.cn/*
 *://*.klqcw.cn/*
 *://*.klt88.com/*
+*://*.km0769.com/*
 *://*.km67.cn/*
 *://*.kmbiyouhz.com/*
 *://*.kmbvpjo.cn/*
@@ -8463,7 +8465,6 @@ title/.*一键访问国外网站/
 *://answer-id.com/*
 *://code.i-harness.com/*
 *://living-sun.com/*
-*://tutorialmore.com/*
 *://qastack.jp/*
 *://qastack.ru/*
 *://qastack.it/*
@@ -8495,7 +8496,6 @@ title/.*一键访问国外网站/
 *://www.generacodice.it/*
 *://www.generacodice.com/*
 *://www.javaer101.com/*
-*://alwaysemmyhope.com/*
 *://*.siwib.org/*
 *://*.fluffyfables.com/*
 *://www.fixes.pub/*
@@ -8549,8 +8549,10 @@ title/.*一键访问国外网站/
 *://www.webdevqa.jp.net/*
 *://exceptionshub.com/*
 *://newbedev.com/*
-*://pretagteam.com/*
 *://www.codenong.com/*
 *://cainiaojiaocheng.com/*
 *://routinepanic.com/*
 *://pythonwd.com/*
+*://tutorialmore.com/*
+*://alwaysemmyhope.com/*
+*://pretagteam.com/*
