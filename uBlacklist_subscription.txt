@@ -8556,3 +8556,4 @@ title/.*一键访问国外网站/
 *://tutorialmore.com/*
 *://alwaysemmyhope.com/*
 *://pretagteam.com/*
+*://www.titanwolf.org/*
