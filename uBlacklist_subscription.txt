@@ -5036,6 +5036,7 @@ title/.*一键访问国外网站/
 *://*.jsjzmy.com/*
 *://*.jskm56.com/*
 *://*.jsmaiyu.com/*
+*://*.jsmeiguigu.com/*
 *://*.jsotransactions.buzz/*
 *://*.jsqst.com/*
 *://*.jsredlover.com/*
