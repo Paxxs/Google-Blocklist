@@ -8661,3 +8661,6 @@ title/.*一键访问国外网站/
 *://www.semicolonworld.com/*
 *://tipsfordev.com/*
 *://www.qi-u.com/*
+*://stackqna.com/*
+*://www.xsprogram.com/*
+*://stackoom.com/*
