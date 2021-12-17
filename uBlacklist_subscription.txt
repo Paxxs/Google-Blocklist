@@ -8664,3 +8664,4 @@ title/.*一键访问国外网站/
 *://stackqna.com/*
 *://www.xsprogram.com/*
 *://stackoom.com/*
+*://christfever.in/*
