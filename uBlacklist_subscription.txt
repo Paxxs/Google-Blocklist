@@ -8666,3 +8666,4 @@ title/.*一键访问国外网站/
 *://www.xsprogram.com/*
 *://stackoom.com/*
 *://christfever.in/*
+*://cndgn.com/*
