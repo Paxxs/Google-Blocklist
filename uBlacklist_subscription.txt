@@ -8588,9 +8588,6 @@ title/.*一键访问国外网站/
 *://codeguides.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
-*://www.generacodice.blog/*
-*://www.generacodice.it/*
-*://www.generacodice.com/*
 *://www.javaer101.com/*
 *://*.siwib.org/*
 *://*.fluffyfables.com/*
@@ -8650,7 +8647,6 @@ title/.*一键访问国外网站/
 *://routinepanic.com/*
 *://pythonwd.com/*
 *://tutorialmore.com/*
-*://alwaysemmyhope.com/*
 *://pretagteam.com/*
 *://www.titanwolf.org/*
 *://coderedirect.com/*
@@ -8666,4 +8662,9 @@ title/.*一键访问国外网站/
 *://www.xsprogram.com/*
 *://stackoom.com/*
 *://christfever.in/*
+*://cndgn.com/*
+*://www.generacodice.blog/*
+*://www.generacodice.it/*
+*://www.generacodice.com/*
+ver.in/*
 *://cndgn.com/*
