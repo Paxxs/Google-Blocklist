@@ -7298,6 +7298,7 @@ title/.*一键访问国外网站/
 *://*.tudou478.cn/*
 *://*.tudou56.com/*
 *://*.tudoudileii.com/*
+*://*.tuokehj.com/*
 *://*.turf-seed-china.buzz/*
 *://*.tusfam.com/*
 *://*.tuvanduhoc.buzz/*
@@ -8666,5 +8667,4 @@ title/.*一键访问国外网站/
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
-ver.in/*
-*://cndgn.com/*
+om/*
