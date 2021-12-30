@@ -8664,7 +8664,7 @@ title/.*一键访问国外网站/
 *://stackoom.com/*
 *://christfever.in/*
 *://cndgn.com/*
+*://codersatellite.com/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
-om/*
