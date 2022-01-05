@@ -8760,6 +8760,7 @@ title/.*一键访问国外网站/
 *://christfever.in/*
 *://cndgn.com/*
 *://codersatellite.com/*
+*://*.coredump.biz/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
