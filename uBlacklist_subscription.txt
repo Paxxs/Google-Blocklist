@@ -8766,3 +8766,4 @@ title/.*一键访问国外网站/
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
+*://stackify.dev/*
