@@ -8770,3 +8770,4 @@ title/.*一键访问国外网站/
 *://stackfinder.jp.net/*
 *://coder-solution-jp.com/*
 *://jpndev.com/*
+*://www.uebu-kaihatsu.jp.net/*
