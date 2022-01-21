@@ -8771,3 +8771,5 @@ title/.*一键访问国外网站/
 *://coder-solution-jp.com/*
 *://jpndev.com/*
 *://www.uebu-kaihatsu.jp.net/*
+*://sqlite.in/*
+*://stackguides.com/*
