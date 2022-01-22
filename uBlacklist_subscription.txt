@@ -8773,3 +8773,17 @@ title/.*一键访问国外网站/
 *://www.uebu-kaihatsu.jp.net/*
 *://sqlite.in/*
 *://stackguides.com/*
+*://younggeeks.in/*
+*://www.answerlib.com/*
+*://edupro.id/*
+*://python-stack.de/*
+*://www.stackfinder.ru/*
+*://stackfault.net/*
+*://howtofix.io/*
+*://www.buzzphp.com/*
+*://www.desenv-web-rp.com/*
+*://askdev.vn/*
+*://quares.ru/*
+*://www.examplefiles.net/*
+*://codewdw.com/*
+*://jpcodeqa.com/*
