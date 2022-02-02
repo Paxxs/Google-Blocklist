@@ -8797,3 +8797,5 @@ title/.*一键访问国外网站/
 *://codefaq.ru/*
 *://*.mediatagtw.com/*
 *://alltodev.com/*
+*://progi.pro/*
+*://jike.in/*
