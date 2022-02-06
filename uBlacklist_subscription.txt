@@ -8799,3 +8799,4 @@ title/.*一键访问国外网站/
 *://alltodev.com/*
 *://progi.pro/*
 *://jike.in/*
+*://www.web-dev-qa.com/*
