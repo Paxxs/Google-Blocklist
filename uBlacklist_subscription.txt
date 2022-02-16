@@ -8802,3 +8802,4 @@ title/.*一键访问国外网站/
 *://www.web-dev-qa.com/*
 *://*.elfishgene.com/*
 *://answerlib.com/*
+*://sysadminde.com/*
