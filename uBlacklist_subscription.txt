@@ -8803,3 +8803,6 @@ title/.*一键访问国外网站/
 *://*.elfishgene.com/*
 *://answerlib.com/*
 *://sysadminde.com/*
+*://answacode.com/*
+*://fooobar.com/*
+*://ask-dev.ru/*
