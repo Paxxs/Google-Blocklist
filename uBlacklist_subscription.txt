@@ -8807,3 +8807,5 @@ title/.*一键访问国外网站/
 *://fooobar.com/*
 *://ask-dev.ru/*
 *://*.arip-photo.org/*
+*://jablogs.com/*
+*://jpdebug.com/*
