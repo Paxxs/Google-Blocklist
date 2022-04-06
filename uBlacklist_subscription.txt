@@ -8809,3 +8809,4 @@ title/.*一键访问国外网站/
 *://*.arip-photo.org/*
 *://jablogs.com/*
 *://jpdebug.com/*
+*://askcodez.com/*
