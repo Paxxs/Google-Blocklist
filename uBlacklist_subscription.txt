@@ -2095,8 +2095,10 @@ title/.*一键访问国外网站/
 *://*.14nh003.cn/*
 *://*.151yutm.cn/*
 *://*.1546805.cn/*
+*://*.155.138.230.158/*
 *://*.15888st.com/*
 *://*.158mz.cn/*
+*://*.159.138.37.243/*
 *://*.1594331.cn/*
 *://*.15lq.cn/*
 *://*.163bk.cn/*
@@ -2207,6 +2209,7 @@ title/.*一键访问国外网站/
 *://*.21shipping-ams.buzz/*
 *://*.21zhongyao.com/*
 *://*.2201343.cn/*
+*://*.222.5634111.com/*
 *://*.2277449.cn/*
 *://*.228cp.cn/*
 *://*.229cq.com/*
@@ -2309,6 +2312,7 @@ title/.*一键访问国外网站/
 *://*.365dxpt.com/*
 *://*.365town.cn/*
 *://*.366ro4o.cn/*
+*://*.366service.com/*
 *://*.369bt.cn/*
 *://*.36ho.com/*
 *://*.36wi.com/*
@@ -3048,6 +3052,7 @@ title/.*一键访问国外网站/
 *://*.ancestryworldtree.buzz/*
 *://*.andre-aimaq.buzz/*
 *://*.andreasteunzer.buzz/*
+*://*.androidcookie.com/*
 *://*.anercn.com/*
 *://*.angelalbum.buzz/*
 *://*.anhuijuxin.com/*
@@ -3126,6 +3131,7 @@ title/.*一键访问国外网站/
 *://*.asgvas.cn/*
 *://*.asiannexus.buzz/*
 *://*.asians-xxx.buzz/*
+*://*.ask.helplib.com/*
 *://*.asklight.cn/*
 *://*.askraft.buzz/*
 *://*.assurancesmeilleur.buzz/*
@@ -3615,6 +3621,7 @@ title/.*一键访问国外网站/
 *://*.cmnjmy.com/*
 *://*.cmoa43r.cn/*
 *://*.cmsay.com/*
+*://cn.voidcc.com/*
 *://*.cn0931.cn/*
 *://*.cn2u39.cn/*
 *://*.cn3hr3g.cn/*
@@ -3643,7 +3650,6 @@ title/.*一键访问国外网站/
 *://*.coiszke.cn/*
 *://*.colyi.cn/*
 *://*.com-car.buzz/*
-*://*.com.mx/*
 *://*.comdevtech.buzz/*
 *://*.compmemory.buzz/*
 *://*.compraguapa.buzz/*
@@ -3742,7 +3748,11 @@ title/.*一键访问国外网站/
 *://*.cxhlawyer.com/*
 *://*.cxjinshu.com/*
 *://*.cxmht.com/*
+*://*.cxydev.cc/*
+*://*.cxygjd.com/*
+*://*.cxyread.cc/*
 *://*.cxyy0429.cn/*
+*://*.cxyzd.xyz/*
 *://*.cxz114.com/*
 *://*.cy0734.com/*
 *://*.cy938.com/*
@@ -4303,6 +4313,7 @@ title/.*一键访问国外网站/
 *://*.fzlive.cn/*
 *://*.fzsmlcn.com/*
 *://*.fzxunjie.com/*
+*://*.g.penzai.com/*
 *://*.g0bcd5.cn/*
 *://*.g0jq8li.cn/*
 *://*.g25cmfn.cn/*
@@ -4780,6 +4791,7 @@ title/.*一键访问国外网站/
 *://*.hosty.cc/*
 *://*.hotel-britannic.buzz/*
 *://*.hotsync.cn/*
+*://*.houseword.com/*
 *://*.houtaiyun.com/*
 *://*.howietech.com/*
 *://*.hpapt.cn/*
@@ -5016,7 +5028,11 @@ title/.*一键访问国外网站/
 *://*.itaotaotao.com/*
 *://*.itchosun.buzz/*
 *://*.itmpi-journal.buzz/*
+*://*.its201.com/*
+*://*.its301.com/*
+*://*.its500.com/*
 *://*.itvgm.cn/*
+*://*.ityouknow.com/*
 *://*.iuggqtr.cn/*
 *://*.iuwenhua.com/*
 *://*.iuywe.cn/*
@@ -5052,6 +5068,7 @@ title/.*一键访问国外网站/
 *://*.jakdsy.com/*
 *://*.jakdy.com/*
 *://*.jamyi.com/*
+*://*.javazhiyin.com/*
 *://*.jaweno.com/*
 *://*.jayagy.com/*
 *://*.jayity.com/*
@@ -5337,6 +5354,7 @@ title/.*一键访问国外网站/
 *://*.kangmile.cn/*
 *://*.kanneenkruike.buzz/*
 *://*.kawauso-net.buzz/*
+*://kb.kutu66.com/*
 *://*.kb113dh.cn/*
 *://*.kbie4ab.cn/*
 *://*.kbkb7.com/*
@@ -5417,6 +5435,7 @@ title/.*一键访问国外网站/
 *://*.konka7556.com/*
 *://*.koon4.cn/*
 *://*.kos5bcz.cn/*
+*://*.koubeiblog.com/*
 *://*.kozykatskorner.buzz/*
 *://*.kpgbq.com/*
 *://*.kpk91o0.cn/*
@@ -5869,6 +5888,7 @@ title/.*一键访问国外网站/
 *://*.mlg8.cn/*
 *://*.mlgongyi.com/*
 *://*.mlj518.com/*
+*://*.mlog.club/*
 *://*.mlps6q6.cn/*
 *://*.mlq90rw.cn/*
 *://*.mlr8.cn/*
@@ -6218,9 +6238,11 @@ title/.*一键访问国外网站/
 *://*.online-green.buzz/*
 *://*.ons123.cn/*
 *://*.ooea394.cn/*
+*://*.oomake.com/*
 *://*.op081ek.cn/*
 *://*.opag.buzz/*
 *://*.opeck.cn/*
+*://*.opris.chengjinzm.com/*
 *://*.optoviki.buzz/*
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
@@ -6251,6 +6273,7 @@ title/.*一键访问国外网站/
 *://*.oven0208.cn/*
 *://*.overbridge.cn/*
 *://*.owlinns.com/*
+*://*.owyje.0818hj.com/*
 *://*.oxinxian.com/*
 *://*.oxxsufvc.cn/*
 *://*.oy6189999.com/*
@@ -6463,7 +6486,24 @@ title/.*一键访问国外网站/
 *://*.q7forum.buzz/*
 *://*.q844h.cn/*
 *://*.q9vmpio.cn/*
+*://qa.1r1g.com/*
 *://*.qacjjc.com/*
+*://*.qastack.co.in/*
+*://*.qastack.com.br/*
+*://*.qastack.com.de/*
+*://*.qastack.com.ua/*
+*://*.qastack.fr/*
+*://*.qastack.id/*
+*://*.qastack.in/*
+*://*.qastack.in.th/*
+*://*.qastack.info.tr/*
+*://*.qastack.it/*
+*://*.qastack.jp/*
+*://*.qastack.kr/*
+*://*.qastack.lk/*
+*://*.qastack.mx/*
+*://*.qastack.ru/*
+*://*.qastack.vn/*
 *://*.qazoynb.cn/*
 *://*.qbl8.cn/*
 *://*.qbslipc.cn/*
@@ -6641,6 +6681,7 @@ title/.*一键访问国外网站/
 *://*.readmeisle.cn/*
 *://*.realestatetagtw.com/*
 *://*.rebatesu.com/*
+*://*.recalll.co/*
 *://*.redspicks.buzz/*
 *://*.redsunbaby.cn/*
 *://*.redveronica.buzz/*
@@ -8540,6 +8581,7 @@ title/.*一键访问国外网站/
 *://*.zsmcl.com/*
 *://*.zsmulan.com/*
 *://*.zsqltz.com/*
+*://*.zst.ljyhky.com/*
 *://*.zswntech.com/*
 *://*.ztguolu.com/*
 *://*.ztjianfa.com/*
@@ -8610,8 +8652,6 @@ title/.*一键访问国外网站/
 *://*.helplib.com/*
 *://*.jishuwen.com/*
 *://*.xbuba.com/*
-*://*.androidcookie.com/*
-*://*.oomake.com/*
 *://*.kbase101.com/*
 *://*.cheerda.net/*
 *://*.icopy.site/*
@@ -8622,7 +8662,6 @@ title/.*一键访问国外网站/
 *://*.steemit.com/*
 *://*.src-bin.com/*
 *://*.fullstack.im/*
-*://*.mlog.club/*
 *://*.code-examples.net/*
 *://*.lai18.com/*
 *://*.tool.lu/*
@@ -8644,7 +8683,6 @@ title/.*一键访问国外网站/
 *://*.datatables.club/*
 *://*.mycodeweb.com/*
 *://*.code.i-harness.com/*
-*://*.koubeiblog.com/*
 *://*.manongdao.com/*
 *://*.3daima.com/*
 *://*.orcode.com/*
