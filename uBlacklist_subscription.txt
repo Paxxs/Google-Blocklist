@@ -2215,6 +2215,7 @@ title/.*一键访问国外网站/
 *://*.229cq.com/*
 *://*.22ggg.cn/*
 *://*.22head.com/*
+*://*.231327.com/*
 *://*.23233.com.cn/*
 *://*.23539876.com/*
 *://*.23e8.com/*
@@ -6399,6 +6400,7 @@ title/.*一键访问国外网站/
 *://*.pnelwjz.cn/*
 *://*.pnih1wn.cn/*
 *://*.pns8.cn/*
+*://*.pny9.com/*
 *://*.poemsoft.com/*
 *://*.poetnamelife.buzz/*
 *://*.poid7.cn/*
@@ -6470,6 +6472,8 @@ title/.*一键访问国外网站/
 *://*.pxyz760.cn/*
 *://*.pxz8.cn/*
 *://*.pyax021.cn/*
+*://*.pyk696.com/*
+*://*.pyk868.com/*
 *://*.pzdyj.com/*
 *://*.pzhfly.cn/*
 *://*.pzhnanke.com/*
