@@ -9042,3 +9042,4 @@ title/.*一键访问国外网站/
 *://iquestion.pro/*
 *://*.ntcdoon.org/*
 *://programmierfrage.com/*
+*://microeducate.tech/*
