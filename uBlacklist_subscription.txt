@@ -8972,6 +8972,7 @@ title/.*一键访问国外网站/
 *://cainiaojiaocheng.com/*
 *://routinepanic.com/*
 *://pythonwd.com/*
+*://tousu.in/*
 *://tutorialmore.com/*
 *://pretagteam.com/*
 *://www.titanwolf.org/*
@@ -9043,3 +9044,4 @@ title/.*一键访问国外网站/
 *://*.ntcdoon.org/*
 *://programmierfrage.com/*
 *://microeducate.tech/*
+*://www.debugko.com/*
