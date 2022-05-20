@@ -8921,9 +8921,6 @@ title/.*一键访问国外网站/
 *://www.fixes.pub/*
 *://knews.vip/*
 *://isolution.pro/*
-*://lycaeum.dev/*
-*://classmethod.dev/*
-*://stormcrow.dev/*
 *://*.athabasca-foto.com/*
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
@@ -8967,9 +8964,9 @@ title/.*一键访问国外网站/
 *://pythonwd.com/*
 *://tousu.in/*
 *://tutorialmore.com/*
-*://pretagteam.com/*
 *://www.titanwolf.org/*
 *://coderedirect.com/*
+*://fullstackuser.com/*
 *://ostack.cn/*
 *://easysavecode.com/*
 *://webdevdesigner.com/*
@@ -9050,3 +9047,7 @@ title/.*一键访问国外网站/
 *://article.docway.net/*
 *://codehero.jp/*
 *://quabr.com/*
+*://pretagteam.com/*
+*://lycaeum.dev/*
+*://classmethod.dev/*
+*://stormcrow.dev/*
