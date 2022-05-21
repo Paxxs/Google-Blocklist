@@ -9051,3 +9051,5 @@ title/.*一键访问国外网站/
 *://lycaeum.dev/*
 *://classmethod.dev/*
 *://stormcrow.dev/*
+*://reddit.fun/*
+*://qa.icopy.site/*
