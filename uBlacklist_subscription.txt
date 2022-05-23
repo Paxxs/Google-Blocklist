@@ -8963,6 +8963,8 @@ title/.*一键访问国外网站/
 *://coderedirect.com/*
 *://fullstackuser.com/*
 *://ostack.cn/*
+*://qa.ostack.cn/*
+*://wujigu.com/*
 *://webdevdesigner.com/*
 *://www.ghcc.net/*
 *://*.developreference.com/*
