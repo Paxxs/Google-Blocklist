@@ -9060,3 +9060,4 @@ title/.*一键访问国外网站/
 *://codersatellite.com/*
 *://codewdw.com/*
 *://jpcodeqa.com/*
+*://flutterhq.com/*
