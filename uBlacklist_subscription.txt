@@ -9067,3 +9067,4 @@ title/.*一键访问国外网站/
 *://*.ape-ask.com/*
 *://yaoply.com/*
 *://techhelpnotes.com/*
+*://wp-qa.com/*
