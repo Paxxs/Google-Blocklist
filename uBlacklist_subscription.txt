@@ -9068,3 +9068,6 @@ title/.*一键访问国外网站/
 *://yaoply.com/*
 *://techhelpnotes.com/*
 *://wp-qa.com/*
+*://www.querythreads.com/*
+*://www.appsloveworld.com/*
+*://dtuto.com/*
