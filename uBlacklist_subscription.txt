@@ -9071,3 +9071,4 @@ title/.*一键访问国外网站/
 *://www.querythreads.com/*
 *://www.appsloveworld.com/*
 *://dtuto.com/*
+*://qatop.pythonwood.com/*
