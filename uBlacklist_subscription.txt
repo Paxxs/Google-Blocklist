@@ -9072,3 +9072,4 @@ title/.*一键访问国外网站/
 *://www.appsloveworld.com/*
 *://dtuto.com/*
 *://qatop.pythonwood.com/*
+*://webdevask.com/*
