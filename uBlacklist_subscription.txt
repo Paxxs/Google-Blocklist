@@ -1882,6 +1882,8 @@ title/.*一键访问国外网站/
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
 *://*.007-security.buzz/*
+*://*.0077851.com/*
+*://*.0077951.com/*
 *://*.007ly3e.cn/*
 *://*.007sx.cn/*
 *://*.0086cnc.com/*
@@ -2040,6 +2042,7 @@ title/.*一键访问国外网站/
 *://*.0y4peu.cn/*
 *://*.1000lily.com/*
 *://*.1004usa.buzz/*
+*://*.1005711.com/*
 *://*.1008-6.cn/*
 *://*.1010host.buzz/*
 *://*.1018272.cn/*
@@ -2096,6 +2099,9 @@ title/.*一键访问国外网站/
 *://*.151yutm.cn/*
 *://*.1546805.cn/*
 *://*.155.138.230.158/*
+*://*.1565759.com/*
+*://*.1577195.com/*
+*://*.1579578.com/*
 *://*.15888st.com/*
 *://*.158mz.cn/*
 *://*.159.138.37.243/*
@@ -2328,6 +2334,12 @@ title/.*一键访问国外网站/
 *://*.37orog3.cn/*
 *://*.387u.com/*
 *://*.388625.com/*
+*://*.3955015.com/*
+*://*.3955017.com/*
+*://*.3985022.com/*
+*://*.3990775.com/*
+*://*.3997011.com/*
+*://*.3997015.com/*
 *://*.3adfo7.cn/*
 *://*.3agtl2.cn/*
 *://*.3balao.com/*
@@ -2537,6 +2549,7 @@ title/.*一键访问国外网站/
 *://*.52zrm.com/*
 *://*.52zswl.com/*
 *://*.5339901.com/*
+*://*.5339902.com/*
 *://*.535love.com/*
 *://*.53so79u.cn/*
 *://*.541852.com/*
@@ -2553,12 +2566,16 @@ title/.*一键访问国外网站/
 *://*.5588pay.com/*
 *://*.55dabbs.com/*
 *://*.55mjd3s.cn/*
+*://*.55wenda.top/*
 *://*.565zt2.cn/*
 *://*.5688p.cn/*
 *://*.56dotour.buzz/*
 *://*.56dy56.cn/*
 *://*.56gouwu.com/*
+*://*.5712001.com/*
 *://*.5712007.com/*
+*://*.5722011.com/*
+*://*.5722099.com/*
 *://*.572cq.com/*
 *://*.576nkp.cn/*
 *://*.586nwh.cn/*
@@ -2623,13 +2640,17 @@ title/.*一键访问国外网站/
 *://*.64pr.com/*
 *://*.652951.com/*
 *://*.652zh.cn/*
+*://*.6532011.com/*
 *://*.6532033.com/*
 *://*.6532055.com/*
+*://*.6532066.com/*
+*://*.6532077.com/*
 *://*.655dj.com/*
 *://*.657981.com/*
 *://*.658990.com/*
 *://*.6591619.cn/*
 *://*.6633f.com/*
+*://*.6638739.com/*
 *://*.6639263.com/*
 *://*.66666kq.com/*
 *://*.66678yx.com/*
@@ -2678,6 +2699,7 @@ title/.*一键访问国外网站/
 *://*.7017886.com/*
 *://*.706qjdu.cn/*
 *://*.707o.com/*
+*://*.7117125.com/*
 *://*.71usrc.cn/*
 *://*.7200500.com/*
 *://*.720com.cn/*
@@ -2691,10 +2713,14 @@ title/.*一键访问国外网站/
 *://*.73ss.cn/*
 *://*.741963.com/*
 *://*.74koj8y.cn/*
+*://*.7511157.com/*
 *://*.755hunqing.com/*
 *://*.7609ix5.cn/*
 *://*.760cf.com/*
 *://*.764pk.com/*
+*://*.7652525.com/*
+*://*.7661551.com/*
+*://*.7661552.com/*
 *://*.766km.cn/*
 *://*.7671117.com/*
 *://*.76likyx.cn/*
@@ -2758,7 +2784,9 @@ title/.*一键访问国外网站/
 *://*.8084d.com/*
 *://*.80jep4o.cn/*
 *://*.8107778.com/*
+*://*.8122300.com/*
 *://*.8122700.com/*
+*://*.8122800.com/*
 *://*.8122900.com/*
 *://*.81823333.com/*
 *://*.81jmb.com/*
@@ -2779,6 +2807,7 @@ title/.*一键访问国外网站/
 *://*.8688news.com/*
 *://*.86jzdd.com/*
 *://*.86qg.cn/*
+*://*.8712122.com/*
 *://*.87ha60d.cn/*
 *://*.88196833ox.com/*
 *://*.88357vs.cn/*
@@ -2858,6 +2887,7 @@ title/.*一键访问国外网站/
 *://*.9897sf.com/*
 *://*.98ffn.cn/*
 *://*.98kwz.com/*
+*://*.9900176.com/*
 *://*.990ke80.cn/*
 *://*.9988wan.com/*
 *://*.998thkkg.cn/*
@@ -2951,6 +2981,7 @@ title/.*一键访问国外网站/
 *://*.actioncamfilms.buzz/*
 *://*.actorssupplies.buzz/*
 *://*.actuaireonline.buzz/*
+*://*.acuolea.xyz/*
 *://*.acvu.cn/*
 *://*.acxvv.com/*
 *://*.ad-write.buzz/*
@@ -3267,6 +3298,7 @@ title/.*一键访问国外网站/
 *://*.bdrcmp.com/*
 *://*.bdsmzj.com/*
 *://*.bdtjbld.cn/*
+*://*.bduichenb.xyz/*
 *://*.bdzgd67.cn/*
 *://*.beach-talk.cn/*
 *://*.beamer-heimkino.buzz/*
@@ -3321,6 +3353,7 @@ title/.*一键访问国外网站/
 *://*.bianmawd.cc/*
 *://*.biaoqingb.com/*
 *://*.bicycle-zone.buzz/*
+*://*.bieguolaia.com/*
 *://*.bijnchr.cn/*
 *://*.bikinidomains.buzz/*
 *://*.bilbotools.buzz/*
@@ -3499,6 +3532,7 @@ title/.*一键访问国外网站/
 *://*.cahors-la.buzz/*
 *://*.caida168.com/*
 *://*.caiguoxww.com/*
+*://*.caihongta.com/*
 *://*.cailaiipo.com/*
 *://*.cailunwang.com/*
 *://*.cainiao51.com/*
@@ -3866,6 +3900,7 @@ title/.*一键访问国外网站/
 *://*.dape.cc/*
 *://*.dapg.cc/*
 *://*.dapx.cc/*
+*://*.daquandaquan.com/*
 *://*.dasearch.cc/*
 *://*.dashangvip.com/*
 *://*.dashdirectory.buzz/*
@@ -3890,6 +3925,7 @@ title/.*一键访问国外网站/
 *://*.dc0714.com/*
 *://*.dc755wn.cn/*
 *://*.dcchildcustody.buzz/*
+*://*.dcep676.com/*
 *://*.ddccaa.com/*
 *://*.dddzywq.cn/*
 *://*.ddjone.com/*
@@ -4251,6 +4287,7 @@ title/.*一键访问国外网站/
 *://*.fanzhitech.com/*
 *://*.fastenerinventories.buzz/*
 *://*.fatnvc.cn/*
+*://*.fb99778.com/*
 *://*.fbadorp.cn/*
 *://*.fbijeans.cn/*
 *://*.fc912.com/*
@@ -4260,9 +4297,21 @@ title/.*一键访问国外网站/
 *://*.fciwifi.com/*
 *://*.fdccpw.com/*
 *://*.fdctop.cn/*
+*://*.fdf22.com/*
+*://*.fdf26.com/*
+*://*.fdf28.com/*
+*://*.fdf29.com/*
 *://*.fdf30.com/*
 *://*.fdf35.com/*
+*://*.fdf38.com/*
+*://*.fdf39.com/*
+*://*.fdf40.com/*
+*://*.fdf42.com/*
+*://*.fdf43.com/*
 *://*.fdf48.com/*
+*://*.fdf50.com/*
+*://*.fdf55.com/*
+*://*.fdf59.com/*
 *://*.fdjm99.com/*
 *://*.fdmwcl4.cn/*
 *://*.fdtwgg.com/*
@@ -4470,10 +4519,12 @@ title/.*一键访问国外网站/
 *://*.gelanbao.cn/*
 *://*.gene-therapeutix.buzz/*
 *://*.gerecippower.buzz/*
+*://*.gergj.top/*
 *://*.getaoquan.com/*
 *://*.gfart.cn/*
 *://*.gfgyyq.com/*
 *://*.gfhaoxin.com/*
+*://*.gfirh.top/*
 *://*.gfjhf.cn/*
 *://*.gfmsz0t.cn/*
 *://*.gfn6ans.cn/*
@@ -4596,6 +4647,7 @@ title/.*一键访问国外网站/
 *://*.gubaizx.com/*
 *://*.guchengol.com/*
 *://*.guerilla-medien.buzz/*
+*://*.guewr.com/*
 *://*.guheihei.com/*
 *://*.guide-internaute.buzz/*
 *://*.guk120.com/*
@@ -5392,6 +5444,7 @@ title/.*一键访问国外网站/
 *://*.juqingtang.com/*
 *://*.jus065o.cn/*
 *://*.jushengseo.com/*
+*://*.justinjeffrey.com/*
 *://*.juwymg.cn/*
 *://*.jvagf.cn/*
 *://*.jvhzq9c.cn/*
@@ -5493,6 +5546,7 @@ title/.*一键访问国外网站/
 *://*.kelly99.buzz/*
 *://*.kemicloud.com/*
 *://*.kenneltbob.buzz/*
+*://*.kergi.top/*
 *://*.kesicqh.cn/*
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
@@ -5671,6 +5725,7 @@ title/.*一键访问国外网站/
 *://*.legfinz.buzz/*
 *://*.legrandpiege.buzz/*
 *://*.lehu66.cn/*
+*://*.lehuotuan.com/*
 *://*.leifengtv.com/*
 *://*.leilei18.cn/*
 *://*.lengku114.com/*
@@ -7127,6 +7182,7 @@ title/.*一键访问国外网站/
 *://*.shengyis.com/*
 *://*.shenkehan.com/*
 *://*.shenlisy.com/*
+*://*.shenmedaquan.com/*
 *://*.shequlove.cn/*
 *://*.shgon.cn/*
 *://*.shhtksd.com/*
@@ -7618,6 +7674,7 @@ title/.*一键访问国外网站/
 *://*.ttyiyuan.com/*
 *://*.ttzhufu.com/*
 *://*.tubu9.com/*
+*://*.tucaozhiyin.com/*
 *://*.tuconsultor.buzz/*
 *://*.tudou478.cn/*
 *://*.tudou56.com/*
@@ -7641,6 +7698,7 @@ title/.*一键访问国外网站/
 *://*.tx579ez.cn/*
 *://*.txagr.com/*
 *://*.txccc.cc/*
+*://*.txtlist.top/*
 *://*.txy1996.com/*
 *://*.ty52fo.cn/*
 *://*.tybyaf.com/*
@@ -8239,6 +8297,7 @@ title/.*一键访问国外网站/
 *://*.xjwslz.cn/*
 *://*.xjyjzq.com/*
 *://*.xjyolbas.com/*
+*://*.xklbf.top/*
 *://*.xlcjz.com/*
 *://*.xlfinance.cn/*
 *://*.xlhsp.com/*
@@ -8565,6 +8624,7 @@ title/.*一键访问国外网站/
 *://*.yuleall.com/*
 *://*.yulinkehong.cn/*
 *://*.yulongwujinsujiao.cn/*
+*://*.yumaitie.com/*
 *://*.yumiaio688.com/*
 *://*.yundabao.net.cn/*
 *://*.yungou86.com/*
@@ -8705,7 +8765,9 @@ title/.*一键访问国外网站/
 *://*.zhi07j8.cn/*
 *://*.zhijiad.com/*
 *://*.zhijiaw.com/*
+*://*.zhinengtoukui.com/*
 *://*.zhixinlu.com/*
+*://*.zhiyintucao.xyz/*
 *://*.zhj818.com/*
 *://*.zhjfood.com/*
 *://*.zhl798.com/*
@@ -8824,6 +8886,7 @@ title/.*一键访问国外网站/
 *://*.zwydxel.cn/*
 *://*.zwz365.com/*
 *://*.zx2xyw2.cn/*
+*://*.zx75551.com/*
 *://*.zxitg.com/*
 *://*.zxj1i5r.cn/*
 *://*.zxnxnj.com/*
