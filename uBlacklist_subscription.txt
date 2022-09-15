@@ -9172,3 +9172,4 @@ title/.*一键访问国外网站/
 *://dtuto.com/*
 *://qatop.pythonwood.com/*
 *://webdevask.com/*
+*://www.thecodeteacher.com/*
