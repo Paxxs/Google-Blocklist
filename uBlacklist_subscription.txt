@@ -9174,3 +9174,5 @@ title/.*一键访问国外网站/
 *://quabr.com/*
 *://*.ogeek.cn/*
 *://qatop.pythonwood.com/*
+*://techinplanet.com/*
+*://codeutility.org/*
