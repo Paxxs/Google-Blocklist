@@ -9176,3 +9176,4 @@ title/.*一键访问国外网站/
 *://qatop.pythonwood.com/*
 *://techinplanet.com/*
 *://codeutility.org/*
+*://exchangetuts.com/*
