@@ -9177,3 +9177,4 @@ title/.*一键访问国外网站/
 *://techinplanet.com/*
 *://codeutility.org/*
 *://exchangetuts.com/*
+*://splunktool.com/*
