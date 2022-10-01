@@ -9182,3 +9182,4 @@ title/.*一键访问国外网站/
 *://exchangetuts.com/*
 *://splunktool.com/*
 *://coder.gay/*
+*://www.stackubuntu.com/*
