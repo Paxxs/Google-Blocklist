@@ -9142,7 +9142,8 @@ title/.*一键访问国外网站/
 *://splunktool.com/*
 *://coder.gay/*
 *://www.stackubuntu.com/*
-aindustrial.com/*
+*://jtuto.com/*
+*
 *://*.sierrasummit2005.org/*
 *://*.theshuggahpies.com/*
 *://coderedirect.com/*
