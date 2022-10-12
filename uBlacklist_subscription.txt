@@ -9143,8 +9143,8 @@ title/.*一键访问国外网站/
 *://coder.gay/*
 *://www.stackubuntu.com/*
 *://jtuto.com/*
-*
-*://*.sierrasummit2005.org/*
+*://bitcoden.com/*
+t2005.org/*
 *://*.theshuggahpies.com/*
 *://coderedirect.com/*
 *://edupro.id/*
