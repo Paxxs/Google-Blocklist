@@ -9135,8 +9135,8 @@ title/.*一键访问国外网站/
 *://www.mejorcodigo.com/*
 *://*.waymanamechurch.org/*
 *://*.ntcdoon.org/*
-oy-ru.com/*
-*://coder-solution-es.com/*
+*://itecnotes.com/*
+r-solution-es.com/*
 *://questu.ru/*
 *://www.itranslater.com/*
 *://*.ape-ask.com/*
