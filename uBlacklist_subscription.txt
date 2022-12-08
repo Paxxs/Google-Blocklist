@@ -2121,6 +2121,7 @@ title/.*一键访问国外网站/
 *://*.1753235.cn/*
 *://*.176buy.com/*
 *://*.178cj.com/*
+*://*.17bigdata.com/*
 *://*.17dhs.cn/*
 *://*.17fuyou.com/*
 *://*.17junlin.com/*
@@ -5796,6 +5797,7 @@ title/.*一键访问国外网站/
 *://*.livebroadcast.cn/*
 *://*.livefilestore.cn/*
 *://*.liveidc.cn/*
+*://*.liweiliang.com/*
 *://*.liyacxq.com/*
 *://*.liyazy.com/*
 *://*.lizardpoit.com/*
@@ -6553,6 +6555,7 @@ title/.*一键访问国外网站/
 *://*.photoproxi.buzz/*
 *://*.photosyu.com/*
 *://*.phphqc.cc/*
+*://*.phpmianshi.com/*
 *://*.phpqaw.cc/*
 *://*.phqyauh.cn/*
 *://*.phxgmy.com/*
@@ -6771,6 +6774,7 @@ title/.*一键访问国外网站/
 *://*.qifakeji.com/*
 *://*.qifuxuan.com/*
 *://*.qikan519.com/*
+*://*.qilin668.com/*
 *://*.qingkeyy.com/*
 *://*.qingshi8.cn/*
 *://*.qinianqing.com/*
@@ -7726,6 +7730,7 @@ title/.*一键访问国外网站/
 *://*.u4j2nj.cn/*
 *://*.u4paxdt.cn/*
 *://*.u6i6rao.cn/*
+*://*.u72.net/*
 *://*.u8nqbfs.cn/*
 *://*.ua648vk.cn/*
 *://*.uaelotto.buzz/*
@@ -7922,6 +7927,7 @@ title/.*一键访问国外网站/
 *://*.wan8cfd.cn/*
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
+*://*.wandouip.com/*
 *://*.wangleju.com/*
 *://*.wangyanni.cn/*
 *://*.wangyou888.com/*
@@ -8742,6 +8748,7 @@ title/.*一键访问国外网站/
 *://*.zh-anyu.cn/*
 *://*.zhai168.cn/*
 *://*.zhandou666.cn/*
+*://*.zhangbj.com/*
 *://*.zhangyg.com/*
 *://*.zhao188.com/*
 *://*.zhaomilo.com/*
@@ -8790,6 +8797,7 @@ title/.*一键访问国外网站/
 *://*.zhuohuisz.com/*
 *://*.zhuoweihr.com/*
 *://*.zhutigm.com/*
+*://*.zhuxianfei.com/*
 *://*.zhuxuekeji.com/*
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
@@ -9136,15 +9144,8 @@ title/.*一键访问国外网站/
 *://*.waymanamechurch.org/*
 *://*.ntcdoon.org/*
 *://itecnotes.com/*
-r-solution-es.com/*
-*://questu.ru/*
-*://www.itranslater.com/*
-*://*.ape-ask.com/*
-*://www.thecodeteacher.com/*
-*://www.mejorcodigo.com/*
-*://*.waymanamechurch.org/*
-*://*.ntcdoon.org/*
-*://techinplanet.com/*
+*://*.code2s.com/*
+/techinplanet.com/*
 *://www.stackubuntu.com/*
 redirect.com/*
 *://edupro.id/*
