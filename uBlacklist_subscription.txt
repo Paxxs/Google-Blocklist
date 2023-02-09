@@ -9146,8 +9146,8 @@ title/.*一键访问国外网站/
 *://*.waymanamechurch.org/*
 *://*.ntcdoon.org/*
 *://*.code2s.com/*
-//www.stackubuntu.com/*
-redirect.com/*
+*://copyprogramming.com/*
+direct.com/*
 *://edupro.id/*
 *://www.jscodetips.com/*
 *://codefaq.ru/*
