@@ -9120,9 +9120,9 @@ title/.*一键访问国外网站/
 *://www.javaer101.com/*
 *://www.debugcn.com/*
 *://www.debugko.com/*
-*://*.codeflow.site/*
-*://www.nuomiphp.com/*
-*://ubuntu.buildwebhost.com/*
+*://codeutility.org/*
+*://copyprogramming.com/*
+/ubuntu.buildwebhost.com/*
 *://ubuntuaa.com/*
 *://*.pakostnici.com/*
 *://*.athabasca-foto.com/*
