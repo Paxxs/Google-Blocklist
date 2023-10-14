@@ -7547,6 +7547,7 @@ title/.*一键访问国外网站/
 *://*.tgoykuq.cn/*
 *://*.tgwlcg.com/*
 *://*.th2p.com/*
+*://*.thaicarvingknife.com/*
 *://*.thcc.cc/*
 *://*.thebmovierats.buzz/*
 *://*.thegymcam.buzz/*
@@ -9122,8 +9123,7 @@ title/.*一键访问国外网站/
 *://www.debugko.com/*
 *://codeutility.org/*
 *://copyprogramming.com/*
-/ubuntu.buildwebhost.com/*
-*://ubuntuaa.com/*
+//ubuntuaa.com/*
 *://*.pakostnici.com/*
 *://*.athabasca-foto.com/*
 *://www.ghcc.net/*
